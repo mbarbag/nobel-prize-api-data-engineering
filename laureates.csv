@@ -1,0 +1,1005 @@
+,laureate_id,known_name,gender,birth_date,born_city,born_country,born_country_now,continent,death_date
+0,745,A. Michael Spence,male,1943-00-00,"Montclair, NJ",USA,USA,North America,
+1,102,Aage N. Bohr,male,1922-06-19,Copenhagen,Denmark,Denmark,Europe,2009-09-08
+2,779,Aaron Ciechanover,male,1947-10-01,Haifa,British Protectorate of Palestine,Israel,Asia,
+3,259,Aaron Klug,male,1926-08-11,Zelvas,Lithuania,Lithuania,Europe,2018-11-20
+4,1004,Abdulrazak Gurnah,male,1948-00-00,,,,,
+5,114,Abdus Salam,male,1926-01-29,Jhang Maghiāna,India,Pakistan,Asia,1996-11-21
+6,982,Abhijit Banerjee,male,1961-02-21,Mumbai,India,India,Asia,
+7,981,Abiy Ahmed Ali,male,1976-08-15,Beshasha,Ethiopia,Ethiopia,Africa,
+8,843,Ada E. Yonath,female,1939-06-22,Jerusalem,British Mandate of Palestine,Israel,Asia,
+9,866,Adam G. Riess,male,1969-12-16,"Washington, D.C.",USA,USA,North America,
+10,199,Adolf Butenandt,male,1903-03-24,Bremerhaven-Lehe,Germany,Germany,Europe,1995-01-18
+11,164,Adolf von Baeyer,male,1835-10-31,Berlin,Prussia,Germany,Europe,1917-08-20
+12,185,Adolf Windaus,male,1876-12-25,Berlin,Germany,Germany,Europe,1959-06-09
+13,541,Adolfo Pérez Esquivel,male,1931-11-26,Buenos Aires,Argentina,Argentina,South America,
+14,292,Ahmed Zewail,male,1946-02-26,Damanhur,Egypt,Egypt,Africa,2016-08-02
+15,853,Akira Suzuki,male,1930-09-12,Mukawa,Japan,Japan,Asia,
+16,978,Akira Yoshino,male,1948-01-30,Suita,Japan,Japan,Asia,
+17,819,Al Gore,male,1948-03-31,"Washington, D.C.",USA,USA,North America,
+18,1012,Alain Aspect,male,1947-06-15,Agen,France,France,Europe,
+19,729,Alan Heeger,male,1936-01-22,"Sioux City, IA",USA,USA,North America,
+20,376,Alan Hodgkin,male,1914-02-05,Banbury,United Kingdom,United Kingdom,Europe,1998-12-20
+21,730,Alan MacDiarmid,male,1927-04-14,Masterton,New Zealand,New Zealand,Oceania,2007-02-07
+22,11,Albert A. Michelson,male,1852-12-19,Strelno,Prussia,Poland,Europe,1931-05-09
+23,628,Albert Camus,male,1913-11-07,Mondovi,French Algeria,Algeria,Africa,1960-01-04
+24,403,Albert Claude,male,1898-08-24,Longlier,Belgium,Belgium,Europe,1983-05-22
+25,26,Albert Einstein,male,1879-03-14,Ulm,Germany,Germany,Europe,1955-04-18
+26,814,Albert Fert,male,1938-03-07,Carcassonne,France,France,Europe,
+27,465,Albert Gobat,male,1843-05-21,Tramelan,Switzerland,Switzerland,Europe,1914-03-16
+28,519,Albert Lutuli,male,1898-00-00,Bulawayo,Southern Rhodesia,Zimbabwe,Africa,1967-07-21
+29,513,Albert Schweitzer,male,1875-01-14,Kaysersberg,Germany,France,Europe,1965-09-04
+30,332,Albert Szent-Györgyi,male,1893-09-16,Budapest,Austria-Hungary,Hungary,Europe,1986-10-22
+31,304,Albrecht Kossel,male,1853-09-16,Rostock,Mecklenburg,Germany,Europe,1927-07-05
+32,83,Aleksandr M. Prokhorov,male,1916-07-11,Atherton,Australia,Australia,Oceania,2002-01-08
+33,644,Aleksandr Solzhenitsyn,male,1918-12-11,Kislovodsk,Russia,Russia,Europe,2008-08-03
+34,1031,Aleksey Yekimov ,male,1945-00-00,Leningrad,USSR,Russia,Europe,
+35,1018,Ales Bialiatski,male,1962-09-25,"Vyartsilya, Karelia",Russia,Russia,Europe,
+36,766,Alexei Abrikosov,male,1928-06-25,Moscow,USSR,Russia,Europe,2017-03-29
+37,306,Alexis Carrel,male,1873-06-28,Sainte-Foy-lès-Lyon,France,France,Europe,1944-11-05
+38,544,Alfonso García Robles,male,1911-03-20,Zamora,Mexico,Mexico,North America,1991-09-02
+39,392,Alfred D. Hershey,male,1908-12-04,"Owosso, MI",USA,USA,North America,1997-05-22
+40,479,Alfred Fried,male,1864-11-11,Vienna,Austria,Austria,Europe,1921-05-04
+41,450,Alfred G. Gilman,male,1941-07-01,"New Haven, CT",USA,USA,North America,2015-12-23
+42,87,Alfred Kastler,male,1902-05-03,Guebwiller,Germany,France,Europe,1984-01-07
+43,174,Alfred Werner,male,1866-12-12,Mulhouse,France,France,Europe,1919-11-15
+44,892,Alice Munro,female,1931-07-10,Wingham,Canada,Canada,North America,2024-05-13
+45,417,Allan M. Cormack,male,1924-02-23,Johannesburg,South Africa,South Africa,Africa,1998-05-07
+46,305,Allvar Gullstrand,male,1862-06-05,Landskrona,Sweden,Sweden,Europe,1930-07-28
+47,300,Alphonse Laveran,male,1845-06-18,Paris,France,France,Europe,1922-05-18
+48,543,Alva Myrdal,female,1902-01-31,Uppsala,Sweden,Sweden,Europe,1986-02-01
+49,882,Alvin E. Roth,male,1951-12-18,"New York, NY",USA,USA,North America,
+50,719,Amartya Sen,male,1933-11-03,Santiniketan,India,India,Asia,
+51,509,,,,,,,,
+52,537,,,,,,,,
+53,590,Anatole France,male,1844-04-16,Paris,France,France,Europe,1924-10-12
+54,360,André F. Cournand,male,1895-09-24,Paris,France,France,Europe,1988-02-19
+55,849,Andre Geim,male,1958-10-21,Sochi,Russia,Russia,Europe,
+56,618,André Gide,male,1869-11-22,Paris,France,France,Europe,1951-02-19
+57,381,André Lwoff,male,1902-05-08,Ainay-le-Château,France,France,Europe,1994-09-30
+58,990,Andrea Ghez,female,1965-06-16,"New York, NY",USA,USA,North America,
+59,534,Andrei Sakharov,male,1921-05-21,Moscow,Russia,Russia,Europe,1989-12-14
+60,377,Andrew Huxley,male,1917-11-22,Hampstead,United Kingdom,United Kingdom,Europe,2012-05-30
+61,412,Andrew V. Schally,male,1926-11-30,Wilno,Poland,Lithuania,Europe,2024-10-17
+62,802,Andrew Z. Fire,male,1959-04-27,"Stanford, CA",USA,USA,North America,
+63,926,Angus Deaton,male,1945-10-19,Edinburgh,Scotland,Scotland,Europe,
+64,1028,Anne L’Huillier,female,1958-08-16,Paris,France,France,Europe,
+65,1017,Annie Ernaux,female,1940-09-01,Lillebonne,France,France,Europe,
+66,768,Anthony J. Leggett,male,1938-03-26,London,United Kingdom,United Kingdom,Europe,
+67,1014,Anton Zeilinger,male,1945-05-20,Ried im Innkreis,Austria,Austria,Europe,
+68,101,Antony Hewish,male,1924-05-11,Fowey,United Kingdom,United Kingdom,Europe,2021-09-13
+69,538,Anwar al-Sadat,male,1918-12-25,Mit Abu al-Kawm,Egypt,Egypt,Africa,1981-10-06
+70,214,Archer J.P. Martin,male,1910-03-01,London,United Kingdom,United Kingdom,Europe,2002-07-28
+71,311,Archibald V. Hill,male,1886-09-26,Bristol,United Kingdom,United Kingdom,Europe,1977-06-03
+72,998,Ardem Patapoutian,male,1967-00-00,Beirut,Lebanon,Lebanon,Asia,
+73,891,Arieh Warshel,male,1940-11-20,Kibbutz Sde-Nahum,British Mandate of Palestine,Israel,Asia,
+74,490,Aristide Briand,male,1862-03-28,Nantes,France,France,Europe,1932-03-07
+75,208,Arne Tiselius,male,1902-08-10,Stockholm,Sweden,Sweden,Europe,1971-10-29
+76,111,Arno Penzias,male,1933-04-26,Munich,Germany,Germany,Europe,2024-01-22
+77,960,Arthur Ashkin,male,1922-09-02,"New York, NY",USA,USA,North America,2020-09-21
+78,920,Arthur B. McDonald,male,1943-08-29,"Sydney, Nova Scotia",Canada,Canada,North America,
+79,33,Arthur H. Compton,male,1892-09-10,"Wooster, OH",USA,USA,North America,1962-03-15
+80,186,Arthur Harden,male,1865-10-12,Manchester,United Kingdom,United Kingdom,Europe,1940-06-17
+81,499,Arthur Henderson,male,1863-09-13,Glasgow,Scotland,Scotland,Europe,1935-10-20
+82,368,Arthur Kornberg,male,1918-03-03,"Brooklyn, NY",USA,USA,North America,2007-10-26
+83,119,Arthur L. Schawlow,male,1921-05-05,"Mount Vernon, NY",USA,USA,North America,1999-04-28
+84,203,Artturi Virtanen,male,1895-01-15,Helsinki,Russian Empire,Finland,Europe,1973-11-11
+85,722,Arvid Carlsson,male,1923-01-25,Uppsala,Sweden,Sweden,Europe,2018-06-29
+86,310,August Krogh,male,1874-11-15,Grenå,Denmark,Denmark,Europe,1949-09-13
+87,475,Auguste Beernaert,male,1829-07-26,Ostend,Belgium,Belgium,Europe,1912-10-06
+88,553,Aung San Suu Kyi,female,1945-06-19,Rangoon,Burma,Myanmar,Asia,
+89,780,Avram Hershko,male,1937-12-31,Karcag,Hungary,Hungary,Europe,
+90,923,Aziz Sancar,male,1946-09-08,Savur,Turkey,Turkey,Asia,
+91,845,Barack H. Obama,male,1961-08-04,"Honolulu, HI",USA,USA,North America,
+92,428,Barbara McClintock,female,1902-06-16,"Hartford, CT",USA,USA,North America,1992-09-02
+93,942,Barry C. Barish,male,1936-01-27,"Omaha, NE",USA,USA,North America,
+94,789,Barry J. Marshall,male,1951-09-30,Kalgoorlie,Australia,Australia,Oceania,
+95,409,Baruch S. Blumberg,male,1925-07-28,"New York, NY",USA,USA,North America,2011-04-05
+96,419,Baruj Benacerraf,male,1920-10-29,Caracas,Venezuela,Venezuela,South America,2011-08-02
+97,1021,Ben Bernanke,male,1953-12-13,"Augusta, GA",USA,USA,North America,
+98,103,Ben R. Mottelson,male,1926-07-09,"Chicago, IL",USA,USA,North America,2022-05-13
+99,936,Bengt Holmström,male,1949-04-18,Helsinki,Finland,Finland,Europe,
+100,426,Bengt I. Samuelsson,male,1934-05-21,Halmstad,Sweden,Sweden,Europe,2024-07-05
+101,1002,Benjamin List,male,1968-01-11,Frankfurt-on-the-Main,Germany,Germany,Europe,
+102,933,Bernard L. Feringa,male,1951-05-18,Barger-Compascuum,the Netherlands,the Netherlands,Europe,
+103,345,Bernardo Houssay,male,1887-04-10,Buenos Aires,Argentina,Argentina,South America,1971-09-21
+104,445,Bert Sakmann,male,1942-06-12,Stuttgart,Germany,Germany,Europe,
+105,468,Bertha von Suttner,female,1843-06-09,Prague,Austrian Empire,Czech Republic,Europe,1914-06-21
+106,689,Bertil Ohlin,male,1899-04-23,Klippan,Sweden,Sweden,Europe,1979-08-03
+107,145,Bertram N. Brockhouse,male,1918-07-15,"Lethbridge, Alberta",Canada,Canada,North America,2003-10-13
+108,621,Bertrand Russell,male,1872-05-18,Trelleck,United Kingdom,United Kingdom,Europe,1970-02-02
+109,535,Betty Williams,female,1943-05-22,Belfast,Northern Ireland,Northern Ireland,Europe,2020-03-17
+110,572,Bjørnstjerne Bjørnson,male,1832-12-08,Kvikne,Norway,Norway,Europe,1910-04-26
+111,937,Bob Dylan,male,1941-05-24,"Duluth, MN",USA,USA,North America,
+112,629,Boris Pasternak,male,1890-02-10,Moscow,Russia,Russia,Europe,1960-05-30
+113,99,Brian D. Josephson,male,1940-01-04,Cardiff,United Kingdom,United Kingdom,Europe,
+114,879,Brian Kobilka,male,1955-05-30,"Little Falls, MN",USA,USA,North America,
+115,865,Brian P. Schmidt,male,1967-02-24,"Missoula, MT",USA,USA,North America,
+116,861,Bruce A. Beutler,male,1957-12-29,"Chicago, IL",USA,USA,North America,
+117,261,Bruce Merrifield,male,1921-07-15,"Fort Worth, TX",USA,USA,North America,2006-05-14
+118,105,Burton Richter,male,1931-03-22,"Brooklyn, NY",USA,USA,North America,2018-07-18
+119,34,C.T.R. Wilson,male,1869-02-14,Glencorse,Scotland,Scotland,Europe,1959-11-15
+120,298,Camillo Golgi,male,1843-07-07,Corteno,Italy,Italy,Europe,1926-01-21
+121,666,Camilo José Cela,male,1916-05-11,Iria Flavia,Spain,Spain,Europe,2002-01-17
+122,189,Carl Bosch,male,1874-08-27,Cologne,Germany,Germany,Europe,1940-04-26
+123,343,Carl Cori,male,1896-12-05,Prague,Austria-Hungary,Czech Republic,Europe,1984-10-20
+124,43,Carl D. Anderson,male,1905-09-03,"New York, NY",USA,USA,North America,1991-01-11
+125,588,Carl Spitteler,male,1845-04-24,Liestal,Switzerland,Switzerland,Europe,1924-12-29
+126,500,Carl von Ossietzky,male,1889-10-03,Hamburg,Germany,Germany,Europe,1938-05-04
+127,740,Carl Wieman,male,1951-03-26,"Corvallis, OR",USA,USA,North America,
+128,124,Carlo Rubbia,male,1934-03-31,Gorizia,Italy,Italy,Europe,
+129,562,Carlos Filipe Ximenes Belo,male,1948-02-03,Wailacama,East Timor,East Timor,Oceania,
+130,501,Carlos Saavedra Lamas,male,1878-11-01,Buenos Aires,Argentina,Argentina,South America,1959-05-05
+131,836,Carol W. Greider,female,1961-04-15,"San Diego, CA",USA,USA,North America,
+132,1015,Carolyn Bertozzi,female,1966-10-10,"Boston, MA",USA,USA,North America,
+133,55,Cecil Powell,male,1903-12-05,Tonbridge,United Kingdom,United Kingdom,Europe,1969-08-09
+134,1020,,,,,,,,
+135,431,César Milstein,male,1927-10-08,Bahia Blanca,Argentina,Argentina,South America,2002-03-24
+136,384,Charles B. Huggins,male,1901-09-22,"Halifax, Nova Scotia",Canada,Canada,North America,1997-01-12
+137,25,Charles Edouard Guillaume,male,1861-02-15,Fleurier,Switzerland,Switzerland,Europe,1938-06-13
+138,489,Charles G. Dawes,male,1865-08-27,"Marietta, OH",USA,USA,North America,1951-04-23
+139,22,Charles Glover Barkla,male,1877-06-07,Widnes,United Kingdom,United Kingdom,Europe,1944-10-23
+140,81,Charles H. Townes,male,1915-07-28,"Greenville, SC",USA,USA,North America,2015-01-27
+141,269,Charles J. Pedersen,male,1904-10-03,Pusan,Korea,South Korea,Asia,1989-10-26
+142,838,Charles K. Kao,male,1933-11-04,Shanghai,China,China,Asia,2018-09-23
+143,987,Charles M. Rice,male,1952-08-25,"Sacramento, CA",USA,USA,North America,
+144,318,Charles Nicolle,male,1866-09-21,Rouen,France,France,Europe,1936-02-28
+145,307,Charles Richet,male,1850-08-26,Paris,France,France,Europe,1935-12-04
+146,68,Chen Ning Yang,male,1922-09-22,"Hofei, Anhwei",China,China,Asia,
+147,319,Christiaan Eijkman,male,1858-08-11,Nijkerk,the Netherlands,the Netherlands,Europe,1930-11-05
+148,241,Christian Anfinsen,male,1916-03-26,"Monessen, PA",USA,USA,North America,1995-05-14
+149,404,Christian de Duve,male,1917-10-02,Thames Ditton,United Kingdom,United Kingdom,Europe,2013-05-04
+150,486,Christian Lange,male,1869-09-17,Stavanger,Norway,Norway,Europe,1938-12-11
+151,453,Christiane Nüsslein-Volhard,female,1942-10-20,Magdeburg,Germany,Germany,Europe,
+152,858,Christopher A. Pissarides,male,1948-02-20,Nicosia,Cyprus,Cyprus,Europe,
+153,873,Christopher A. Sims,male,1942-10-21,"Washington, D.C.",USA,USA,North America,
+154,153,Claude Cohen-Tannoudji,male,1933-04-01,Constantine,French Algeria,Algeria,Africa,
+155,662,Claude Simon,male,1913-10-10,Tananarive,Madagascar,Madagascar,Africa,2005-07-06
+156,1034,Claudia Goldin,female,1946-00-00,"New York, NY",USA,USA,North America,
+157,146,Clifford G. Shull,male,1915-09-23,"Pittsburgh, PA",USA,USA,North America,2001-03-31
+158,44,Clinton Davisson,male,1881-10-22,"Bloomington, IL",USA,USA,North America,1958-02-01
+159,772,Clive W.J. Granger,male,1934-09-04,Swansea,United Kingdom,United Kingdom,Europe,2009-05-27
+160,505,Cordell Hull,male,1871-10-02,"Olympus, TN",USA,USA,North America,1955-07-23
+161,333,Corneille Heymans,male,1892-03-28,Ghent,Belgium,Belgium,Europe,1968-07-18
+162,803,Craig C. Mello,male,1960-10-18,"New Haven, CT",USA,USA,North America,
+163,657,Czesław Miłosz,male,1911-06-30,Śeteniai,Russian Empire,Lithuania,Europe,2004-08-14
+164,410,D. Carleton Gajdusek,male,1923-09-09,"Yonkers, NY",USA,USA,North America,2008-12-12
+165,520,Dag Hammarskjöld,male,1905-07-29,Jönköping,Sweden,Sweden,Europe,1961-09-18
+166,857,Dale T. Mortensen,male,1939-02-02,"Enterprise, OR",USA,USA,North America,2014-01-09
+167,867,Dan Shechtman,male,1941-01-24,Tel Aviv,British Mandate of Palestine,Israel,Asia,
+168,363,Daniel Bovet,male,1907-03-23,Neuchâtel,Switzerland,Switzerland,Europe,1992-04-08
+169,157,Daniel C. Tsui,male,1939-02-28,Henan,China,China,Asia,
+170,759,Daniel Kahneman,male,1934-03-05,Tel Aviv,British Mandate of Palestine,Israel,Asia,2024-03-27
+171,733,Daniel L. McFadden,male,1937-07-29,"Raleigh, NC",USA,USA,North America,
+172,415,Daniel Nathans,male,1928-10-30,"Wilmington, DE",USA,USA,North America,1999-11-16
+173,674,Dario Fo,male,1926-03-24,Leggiuno-Sangiano,Italy,Italy,Europe,2016-10-13
+174,1044,Daron Acemoglu,male,1967-09-03,Istanbul,Turkey,Turkey,Asia,
+175,1039,David Baker,male,1962-00-00,"Seattle, WA",USA,USA,North America,
+176,406,David Baltimore,male,1938-03-07,"New York, NY",USA,USA,North America,2025-09-06
+177,1007,David Card,male,1956-00-00,Guelph,Canada,Canada,North America,
+178,423,David H. Hubel,male,1926-02-27,"Windsor, ON",Canada,Canada,North America,2013-09-22
+179,776,David J. Gross,male,1941-02-19,"Washington, D.C.",USA,USA,North America,
+180,928,David J. Thouless,male,1934-09-21,Bearsden,United Kingdom,United Kingdom,Europe,2019-04-06
+181,877,David J. Wineland,male,1944-02-24,"Milwaukee, WI",USA,USA,North America,
+182,997,David Julius,male,1955-11-04,"New York, NY",USA,USA,North America,
+183,149,David M. Lee,male,1931-01-20,"Rye, NY",USA,USA,North America,
+184,567,David Trimble,male,1944-10-15,Belfast,Northern Ireland,Northern Ireland,Europe,2022-07-25
+185,1003,David W.C. MacMillan,male,1968-03-16,Bellshill,United Kingdom,United Kingdom,Europe,
+186,1040,Demis Hassabis,male,1976-07-27,London,United Kingdom,United Kingdom,Europe,
+187,966,Denis Mukwege,male,1955-03-01,Bukavu,Belgian Congo,Democratic Republic of the Congo,Africa,
+188,93,Dennis Gabor,male,1900-06-05,Budapest,Hungary,Hungary,Europe,1979-02-08
+189,237,Derek Barton,male,1918-09-08,Gravesend,United Kingdom,United Kingdom,Europe,1998-03-16
+190,669,Derek Walcott,male,1930-01-23,Castries,Saint Lucia,Saint Lucia,North America,2017-03-17
+191,546,Desmond Tutu,male,1931-10-07,Klerksdorp,South Africa,South Africa,Africa,2021-12-26
+192,362,Dickinson W. Richards,male,1895-10-30,"Orange, NJ",USA,USA,North America,1973-02-23
+193,975,Didier Queloz,male,1966-02-23,Geneva,Switzerland,Switzerland,Europe,
+194,1006,Dmitry Muratov,male,1961-10-29,Kubyshev,USSR,Russia,Europe,
+195,568,,,,,,,,
+196,74,Donald A. Glaser,male,1926-09-21,"Cleveland, OH",USA,USA,North America,2013-02-28
+197,267,Donald J. Cram,male,1919-04-22,"Chester, VT",USA,USA,North America,2001-06-17
+198,962,Donna Strickland,female,1959-05-27,Guelph,Canada,Canada,North America,
+199,817,Doris Lessing,female,1919-10-22,Kermanshah,Persia,Iran,Asia,2013-11-17
+200,230,Dorothy Crowfoot Hodgkin,female,1910-05-12,Cairo,Egypt,Egypt,Africa,1994-07-29
+201,150,Douglas D. Osheroff,male,1945-08-01,"Aberdeen, WA",USA,USA,North America,
+202,1022,Douglas Diamond,male,1953-10-25,"Chicago, IL",USA,USA,North America,
+203,710,Douglass C. North,male,1920-11-05,"Cambridge, MA",USA,USA,North America,2015-11-23
+204,1025,Drew Weissman,male,1959-09-07,"Lexington, MA",USA,USA,North America,
+205,264,Dudley R. Herschbach,male,1932-06-18,"San José, CA",USA,USA,North America,
+206,443,E. Donnall Thomas,male,1920-03-15,"Mart, TX",USA,USA,North America,2012-10-20
+207,59,E. M. Purcell,male,1912-08-30,"Taylorville, IL",USA,USA,North America,1997-03-07
+208,397,"Earl W. Sutherland, Jr.",male,1915-11-19,"Burlingame, KS",USA,USA,North America,1974-03-09
+209,324,Edgar Adrian,male,1889-11-30,London,United Kingdom,United Kingdom,Europe,1977-08-08
+210,446,Edmond H. Fischer,male,1920-04-06,Shanghai,China,China,Asia,2021-08-27
+211,807,Edmund S. Phelps,male,1933-07-26,"Evanston, IL",USA,USA,North America,
+212,166,Eduard Buchner,male,1860-05-20,Munich,Bavaria,Germany,Europe,1917-08-13
+213,905,Edvard I. Moser,male,1962-04-27,Ålesund,Norway,Norway,Europe,
+214,336,Edward A. Doisy,male,1893-11-13,"Hume, IL",USA,USA,North America,1986-10-23
+215,452,Edward B. Lewis,male,1918-05-20,"Wilkes-Barre, PA",USA,USA,North America,2004-07-21
+216,349,Edward C. Kendall,male,1886-03-08,"South Norwalk, CT",USA,USA,North America,1972-05-04
+217,787,Edward C. Prescott,male,1940-12-26,"Glens Falls, NY",USA,USA,North America,2022-11-06
+218,365,Edward Tatum,male,1909-12-14,"Boulder, CO",USA,USA,North America,1975-11-05
+219,52,Edward V. Appleton,male,1892-09-06,Bradford,United Kingdom,United Kingdom,Europe,1965-04-21
+220,447,Edwin G. Krebs,male,1918-06-06,"Lansing, IA",USA,USA,North America,2009-12-21
+221,212,Edwin M. McMillan,male,1907-09-18,"Redondo Beach, CA",USA,USA,North America,1991-09-07
+222,348,Egas Moniz,male,1874-11-29,Avanca,Portugal,Portugal,Europe,1955-12-13
+223,852,Ei-ichi Negishi,male,1935-07-14,Changchun,China,China,Asia,2021-06-06
+224,533,Eisaku Satō,male,1901-03-27,Tabuse,Japan,Japan,Asia,1975-06-03
+225,782,Elfriede Jelinek,female,1946-10-20,Mürzzuschlag,Austria,Austria,Europe,
+226,658,Elias Canetti,male,1905-07-25,Ruse,Bulgaria,Bulgaria,Europe,1994-08-14
+227,275,Elias James Corey,male,1928-07-12,"Methuen, MA",USA,USA,North America,
+228,464,Élie Ducommun,male,1833-02-19,Geneva,Switzerland,Switzerland,Europe,1906-12-07
+229,548,Elie Wiesel,male,1928-09-30,Sighet,Romania,Romania,Europe,2016-07-02
+230,480,Elihu Root,male,1845-02-15,"Clinton, NY",USA,USA,North America,1937-02-07
+231,846,Elinor Ostrom,female,1933-08-07,"Los Angeles, CA",USA,USA,North America,2012-06-12
+232,835,Elizabeth H. Blackburn,female,1948-11-26,"Hobart, Tasmania",Australia,Australia,Oceania,
+233,869,Ellen Johnson Sirleaf,female,1938-10-29,Monrovia,Liberia,Liberia,Africa,
+234,161,Emil Fischer,male,1852-10-09,Euskirchen,Prussia,Germany,Europe,1919-07-15
+235,293,Emil von Behring,male,1854-03-15,Hansdorf,Prussia,Poland,Europe,1917-03-31
+236,72,Emilio Segrè,male,1905-02-01,Tivoli,Italy,Italy,Europe,1989-04-22
+237,506,Emily Greene Balch,female,1867-01-08,"Jamaica Plain, MA",USA,USA,North America,1961-01-09
+238,991,Emmanuelle Charpentier,female,1968-12-11,Juvisy-sur-Orge,France,France,Europe,
+239,46,Enrico Fermi,male,1901-09-29,Rome,Italy,Italy,Europe,1954-11-28
+240,909,Eric Betzig,male,1960-01-13,"Ann Arbor, MI",USA,USA,North America,
+241,738,Eric Cornell,male,1961-12-19,"Palo Alto, CA",USA,USA,North America,
+242,454,Eric F. Wieschaus,male,1947-06-08,"South Bend, IN",USA,USA,North America,
+243,724,Eric Kandel,male,1929-11-07,Vienna,Austria,Austria,Europe,
+244,821,Eric S. Maskin,male,1950-12-12,"New York, NY",USA,USA,North America,
+245,604,Erik Axel Karlfeldt,male,1864-07-20,Karlbo,Sweden,Sweden,Europe,1931-04-08
+246,625,Ernest Hemingway,male,1899-07-21,"Oak Park, IL",USA,USA,North America,1961-07-02
+247,47,Ernest Lawrence,male,1901-08-08,"Canton, SD",USA,USA,North America,1958-08-27
+248,167,Ernest Rutherford,male,1871-08-30,Nelson,New Zealand,New Zealand,Oceania,1937-10-19
+249,57,Ernest T.S. Walton,male,1903-10-06,Dungarvan,Ireland,Ireland,Europe,1995-06-25
+250,471,Ernesto Teodoro Moneta,male,1833-09-20,Milan,Austrian Empire,Italy,Europe,1918-02-10
+251,340,Ernst B. Chain,male,1906-06-19,Berlin,Germany,Germany,Europe,1979-08-12
+252,244,Ernst Otto Fischer,male,1918-11-10,Munich,Germany,Germany,Europe,2007-07-23
+253,127,Ernst Ruska,male,1906-12-25,Heidelberg,Germany,Germany,Europe,1988-05-27
+254,444,Erwin Neher,male,1944-03-20,Landsberg,Germany,Germany,Europe,
+255,39,Erwin Schrödinger,male,1887-08-12,Vienna,Austria,Austria,Europe,1961-01-04
+256,983,Esther Duflo,female,1972-10-25,Paris,France,France,Europe,
+257,894,Eugene F. Fama,male,1939-02-14,"Boston, MA",USA,USA,North America,
+258,608,Eugene O'Neill,male,1888-10-16,"New York, NY",USA,USA,North America,1953-11-27
+259,78,Eugene Wigner,male,1902-11-17,Budapest,Austria-Hungary,Hungary,Europe,1995-01-01
+260,651,Eugenio Montale,male,1896-10-12,Genoa,Italy,Italy,Europe,1981-09-12
+261,881,,,,,,,,
+262,649,Eyvind Johnson,male,1900-07-29,Svartbjörnsbyn,Sweden,Sweden,Europe,1976-08-25
+263,929,F. Duncan M. Haldane,male,1951-09-14,London,United Kingdom,United Kingdom,Europe,
+264,283,F. Sherwood Rowland,male,1927-06-28,"Delaware, OH",USA,USA,North America,2012-03-10
+265,556,F.W. de Klerk,male,1936-03-18,Johannesburg,South Africa,South Africa,Africa,2021-11-11
+266,58,Felix Bloch,male,1905-10-23,Zurich,Switzerland,Switzerland,Europe,1983-09-10
+267,379,Feodor Lynen,male,1911-04-06,Munich,Germany,Germany,Europe,1979-08-06
+268,14,Ferdinand Braun,male,1850-06-06,Fulda,Hesse-Kassel,Germany,Europe,1918-04-20
+269,492,Ferdinand Buisson,male,1841-12-20,Paris,France,France,Europe,1932-02-16
+270,1027,Ferenc Krausz,male,1962-05-17,Mór,Hungary,Hungary,Europe,
+271,460,Ferid Murad,male,1936-09-14,"Whiting, IN",USA,USA,North America,2023-09-04
+272,786,Finn E. Kydland,male,1943-12-01,Gjesdal,Norway,Norway,Europe,
+273,963,Frances H. Arnold,female,1956-07-25,"Pittsburgh, PA",USA,USA,North America,
+274,372,Francis Crick,male,1916-06-08,Northampton,United Kingdom,United Kingdom,Europe,2004-07-28
+275,180,Francis W. Aston,male,1877-09-01,Harborne,United Kingdom,United Kingdom,Europe,1945-11-20
+276,699,Franco Modigliani,male,1918-06-18,Rome,Italy,Italy,Europe,2003-09-25
+277,887,François Englert,male,1932-11-06,Etterbeek,Belgium,Belgium,Europe,
+278,380,François Jacob,male,1920-06-17,Nancy,France,France,Europe,2013-04-19
+279,623,François Mauriac,male,1885-10-11,Bordeaux,France,France,Europe,1970-09-01
+280,824,Françoise Barré-Sinoussi,female,1947-07-30,Paris,France,France,Europe,
+281,494,Frank B. Kellogg,male,1856-12-22,"Potsdam, NY",USA,USA,North America,1937-12-21
+282,778,Frank Wilczek,male,1951-05-15,"New York, NY",USA,USA,North America,
+283,613,Frans Eemil Sillanpää,male,1888-09-16,Hämeenkyrö,Russian Empire,Finland,Europe,1964-06-03
+284,193,Frédéric Joliot,male,1900-03-19,Paris,France,France,Europe,1958-08-14
+285,573,Frédéric Mistral,male,1830-09-08,Maillane,France,France,Europe,1914-03-25
+286,463,Frédéric Passy,male,1822-05-20,Paris,France,France,Europe,1912-06-12
+287,358,Frederick C. Robbins,male,1916-08-25,"Auburn, AL",USA,USA,North America,2003-08-04
+288,313,Frederick G. Banting,male,1891-11-14,Alliston,Canada,Canada,North America,1941-02-21
+289,148,Frederick Reines,male,1918-03-16,"Paterson, NJ",USA,USA,North America,1998-08-26
+290,222,Frederick Sanger,male,1918-08-13,Rendcombe,United Kingdom,United Kingdom,Europe,2013-11-19
+291,179,Frederick Soddy,male,1877-09-02,Eastbourne,United Kingdom,United Kingdom,Europe,1956-09-22
+292,474,Fredrik Bajer,male,1837-04-21,Næstved,Denmark,Denmark,Europe,1922-01-22
+293,487,Fridtjof Nansen,male,1861-10-10,Kristiania,Norway,Norway,Europe,1930-05-13
+294,190,Friedrich Bergius,male,1884-10-11,"Goldschmieden, near Breslau",Germany,Poland,Europe,1949-03-30
+295,685,Friedrich von Hayek,male,1899-05-08,Vienna,Austria,Austria,Europe,1992-03-23
+296,508,,,,,,,,
+297,60,Frits Zernike,male,1888-07-16,Amsterdam,the Netherlands,the Netherlands,Europe,1966-03-10
+298,177,Fritz Haber,male,1868-12-09,Breslau,Prussia,Poland,Europe,1934-01-29
+299,355,Fritz Lipmann,male,1899-06-12,Koenigsberg,Germany,Russia,Europe,1986-07-24
+300,181,Fritz Pregl,male,1869-09-03,Laibach,Austria-Hungary,Slovenia,Europe,1930-12-13
+301,659,Gabriel García Márquez,male,1927-03-06,Aracataca,Colombia,Colombia,South America,2014-04-17
+302,12,Gabriel Lippmann,male,1845-08-16,Hollerich,Luxembourg,Luxembourg,Europe,1921-07-13
+303,615,Gabriela Mistral,female,1889-04-07,Vicuña,Chile,Chile,South America,1957-01-10
+304,734,Gao Xingjian,male,1940-01-04,Ganzhou,China,China,Asia,
+305,708,Gary Becker,male,1930-12-02,"Pottsville, PA",USA,USA,North America,2014-05-03
+306,1036,Gary Ruvkun,male,1952-00-00,"Berkeley, CA",USA,USA,North America,
+307,1038,Geoffrey Hinton,male,1947-12-06,London,United Kingdom,United Kingdom,Europe,
+308,245,Geoffrey Wilkinson,male,1921-07-14,Todmorden,United Kingdom,United Kingdom,Europe,1996-09-26
+309,371,Georg von Békésy,male,1899-06-03,Budapest,Hungary,Hungary,Europe,1972-06-13
+310,253,Georg Wittig,male,1897-06-16,Berlin,Germany,Germany,Europe,1987-08-26
+311,744,George A. Akerlof,male,1940-06-17,"New Haven, CT",USA,USA,North America,
+312,280,George A. Olah,male,1927-05-22,Budapest,Hungary,Hungary,Europe,2017-03-08
+313,364,George Beadle,male,1903-10-22,"Wahoo, NE",USA,USA,North America,1989-06-09
+314,596,George Bernard Shaw,male,1856-07-26,Dublin,Ireland,Ireland,Europe,1950-11-02
+315,514,George C. Marshall,male,1880-12-31,"Uniontown, PA",USA,USA,North America,1959-10-16
+316,421,George D. Snell,male,1903-12-19,"Bradford, MA",USA,USA,North America,1996-06-06
+317,201,George de Hevesy,male,1885-08-01,Budapest,Austria-Hungary,Hungary,Europe,1966-07-05
+318,405,George E. Palade,male,1912-11-19,Iasi,Romania,Romania,Europe,2008-10-07
+319,840,George E. Smith,male,1930-05-10,"White Plains, NY",USA,USA,North America,2025-05-28
+320,805,George F. Smoot,male,1945-02-20,"Yukon, FL",USA,USA,North America,
+321,439,George H. Hitchings,male,1905-04-18,"Hoquiam, WA",USA,USA,North America,1998-02-27
+322,326,George H. Whipple,male,1878-08-28,"Ashland, NH",USA,USA,North America,1976-02-01
+323,696,George J. Stigler,male,1911-01-17,"Renton, WA",USA,USA,North America,1991-12-01
+324,964,George P. Smith,male,1941-03-10,"Norwalk, CT",USA,USA,North America,
+325,45,George Paget Thomson,male,1892-05-03,Cambridge,United Kingdom,United Kingdom,Europe,1975-09-10
+326,235,George Porter,male,1920-12-06,Stainforth,United Kingdom,United Kingdom,Europe,2002-08-31
+327,327,George R. Minot,male,1885-12-02,"Boston, MA",USA,USA,North America,1950-02-25
+328,387,George Wald,male,1906-11-18,"New York, NY",USA,USA,North America,1997-04-12
+329,142,Georges Charpak,male,1924-08-01,Dabrovica,Poland,Poland,Europe,2010-09-29
+330,430,Georges J.F. Köhler,male,1946-04-17,Munich,Germany,Germany,Europe,1995-03-01
+331,517,Georges Pire,male,1910-02-10,Dinant,Belgium,Belgium,Europe,1969-01-30
+332,398,Gerald M. Edelman,male,1929-07-01,"New York, NY",USA,USA,North America,2014-05-17
+333,697,Gerard Debreu,male,1921-07-04,Calais,France,France,Europe,2004-12-31
+334,961,Gérard Mourou,male,1944-06-22,Albertville,France,France,Europe,
+335,158,Gerardus 't Hooft,male,1946-07-05,Den Helder,the Netherlands,the Netherlands,Europe,
+336,128,Gerd Binnig,male,1947-07-20,Frankfurt-on-the-Main,West Germany,Germany,Europe,
+337,334,Gerhard Domagk,male,1895-10-30,Lagow,Germany,Poland,Europe,1964-04-24
+338,816,Gerhard Ertl,male,1936-10-10,Bad Cannstatt,Germany,Germany,Europe,
+339,240,Gerhard Herzberg,male,1904-12-25,Hamburg,Germany,Germany,Europe,1999-03-03
+340,582,Gerhart Hauptmann,male,1862-11-15,Bad Salzbrunn,Prussia,Poland,Europe,1946-06-06
+341,438,Gertrude B. Elion,female,1918-01-23,"New York, NY",USA,USA,North America,1999-02-21
+342,344,Gerty Cori,female,1896-08-15,Prague,Austria-Hungary,Czech Republic,Europe,1957-10-26
+343,1001,Giorgio Parisi,male,1948-08-04,Rome,Italy,Italy,Europe,
+344,635,Giorgos Seferis,male,1900-03-13,Smyrna,Ottoman Empire,Turkey,Asia,1971-09-20
+345,576,Giosuè Carducci,male,1835-07-27,Val di Castello,Tuscany,Italy,Europe,1907-02-16
+346,229,Giulio Natta,male,1903-02-26,Imperia,Italy,Italy,Europe,1979-05-02
+347,213,Glenn T. Seaborg,male,1912-04-19,"Ishpeming, MI",USA,USA,North America,1999-02-25
+348,418,Godfrey N. Hounsfield,male,1919-08-28,Newark,United Kingdom,United Kingdom,Europe,2004-08-12
+349,810,,,,,,,,
+350,597,Grazia Deledda,female,1871-09-27,"Nuoro, Sardinia",Italy,Italy,Europe,1936-08-15
+351,972,Gregg L. Semenza,male,1956-07-12,"New York, NY",USA,USA,North America,
+352,13,Guglielmo Marconi,male,1874-04-25,Bologna,Italy,Italy,Europe,1937-07-20
+353,1009,Guido W. Imbens,male,1963-09-03,Geldrop,the Netherlands,the Netherlands,Europe,
+354,684,Gunnar Myrdal,male,1898-12-06,Skattungbyn,Sweden,Sweden,Europe,1987-05-17
+355,461,Günter Blobel,male,1936-05-21,Waltersdorf,Germany,Poland,Europe,2018-02-18
+356,676,Günter Grass,male,1927-10-16,Danzig,Free City of Danzig,Poland,Europe,2015-04-13
+357,17,Gustaf Dalén,male,1869-11-30,Stenstorp,Sweden,Sweden,Europe,1937-12-09
+358,31,Gustav Hertz,male,1887-07-22,Hamburg,Germany,Germany,Europe,1975-10-30
+359,491,Gustav Stresemann,male,1878-05-10,Berlin,Germany,Germany,Europe,1929-10-03
+360,777,H. David Politzer,male,1949-08-31,"New York, NY",USA,USA,North America,
+361,389,H. Gobind Khorana,male,1922-01-09,Raipur,India,India,Asia,2011-11-09
+362,751,H. Robert Horvitz,male,1947-05-08,"Chicago, IL",USA,USA,North America,
+363,626,Halldór Laxness,male,1902-04-23,Reykjavik,Iceland,Iceland,Europe,1998-02-08
+364,416,Hamilton O. Smith,male,1931-08-23,"New York, NY",USA,USA,North America,
+365,1042,Han Kang,female,1970-11-27,Gwangju,South Korea,South Korea,Asia,
+366,91,Hannes Alfvén,male,1908-05-30,Norrköping,Sweden,Sweden,Europe,1995-04-02
+367,88,Hans Bethe,male,1906-07-02,Strasbourg,Germany,France,Europe,2005-03-06
+368,188,Hans Fischer,male,1881-07-27,Hoechst,Germany,Germany,Europe,1945-03-31
+369,136,Hans G. Dehmelt,male,1922-09-09,Görlitz,Prussia,Germany,Europe,2017-03-07
+370,354,Hans Krebs,male,1900-08-25,Hildesheim,Germany,Germany,Europe,1981-11-22
+371,329,Hans Spemann,male,1869-06-27,Stuttgart,Württemberg,Germany,Europe,1941-09-12
+372,187,Hans von Euler-Chelpin,male,1873-02-15,Augsburg,Germany,Germany,Europe,1964-11-06
+373,823,Harald zur Hausen,male,1936-03-11,Gelsenkirchen,Germany,Germany,Europe,2023-05-28
+374,192,Harold C. Urey,male,1893-04-29,"Walkerton, IN",USA,USA,North America,1981-01-05
+375,441,Harold E. Varmus,male,1939-12-18,"Oceanside, NY",USA,USA,North America,
+376,801,Harold Pinter,male,1930-10-10,London,United Kingdom,United Kingdom,Europe,2008-12-24
+377,704,Harry M. Markowitz,male,1927-08-24,"Chicago, IL",USA,USA,North America,2023-06-22
+378,650,Harry Martinson,male,1904-05-06,Jämshög,Sweden,Sweden,Europe,1978-02-11
+379,272,Hartmut Michel,male,1948-07-18,Ludwigsburg,West Germany,Germany,Europe,
+380,985,Harvey J. Alter,male,1935-09-12,"New York, NY",USA,USA,North America,
+381,18,Heike Kamerlingh Onnes,male,1853-09-21,Groningen,the Netherlands,the Netherlands,Europe,1926-02-21
+382,647,Heinrich Böll,male,1917-12-21,Cologne,Germany,Germany,Europe,1985-07-16
+383,129,Heinrich Rohrer,male,1933-06-06,Buchs,Switzerland,Switzerland,Europe,2013-05-16
+384,184,Heinrich Wieland,male,1877-06-04,Pforzheim,Germany,Germany,Europe,1957-08-05
+385,2,Hendrik A. Lorentz,male,1853-07-18,Arnhem,the Netherlands,the Netherlands,Europe,1928-02-04
+386,4,Henri Becquerel,male,1852-12-15,Paris,France,France,Europe,1908-08-25
+387,600,Henri Bergson,male,1859-10-18,Paris,France,France,Europe,1941-01-04
+388,481,Henri La Fontaine,male,1854-04-22,Brussels,Belgium,Belgium,Europe,1943-05-14
+389,165,Henri Moissan,male,1852-09-28,Paris,France,France,Europe,1907-02-20
+390,335,Henrik Dam,male,1895-02-21,Copenhagen,Denmark,Denmark,Europe,1976-04-17
+391,587,Henrik Pontoppidan,male,1857-07-24,Fredericia,Denmark,Denmark,Europe,1943-08-21
+392,462,Henry Dunant,male,1828-05-08,Geneva,Switzerland,Switzerland,Europe,1910-10-30
+393,530,Henry Kissinger,male,1923-05-27,Fürth,Germany,Germany,Europe,2023-11-29
+394,260,Henry Taube,male,1915-11-30,Neudorf,Canada,Canada,North America,2005-11-16
+395,139,Henry W. Kendall,male,1926-12-09,"Boston, MA",USA,USA,North America,1999-02-15
+396,575,Henryk Sienkiewicz,male,1846-05-05,Wola Okrzejska,Poland,Poland,Europe,1916-11-15
+397,262,Herbert A. Hauptman,male,1917-02-14,"New York, NY",USA,USA,North America,2011-10-23
+398,252,Herbert C. Brown,male,1912-05-22,London,United Kingdom,United Kingdom,Europe,2004-12-19
+399,727,Herbert Kroemer,male,1928-08-25,Weimar,Germany,Germany,Europe,2024-03-08
+400,338,Herbert S. Gasser,male,1888-07-05,"Platteville, WI",USA,USA,North America,1963-05-11
+401,691,Herbert Simon,male,1916-06-15,"Milwaukee, WI",USA,USA,North America,2001-02-09
+402,617,Hermann Hesse,male,1877-07-02,Calw,Germany,Germany,Europe,1962-08-09
+403,342,Hermann J. Muller,male,1890-12-21,"New York, NY",USA,USA,North America,1967-04-05
+404,216,Hermann Staudinger,male,1881-03-23,Worms,Germany,Germany,Europe,1965-09-08
+405,844,Herta Müller,female,1953-08-17,"Nitzkydorf, Banat",Romania,Romania,Europe,
+406,731,Hideki Shirakawa,male,1936-08-20,Tokyo,Japan,Japan,Asia,
+407,54,Hideki Yukawa,male,1907-01-23,Tokyo,Japan,Japan,Asia,1981-09-08
+408,907,Hiroshi Amano,male,1960-09-11,Hamamatsu,Japan,Japan,Asia,
+409,485,Hjalmar Branting,male,1860-11-23,Stockholm,Sweden,Sweden,Europe,1925-02-24
+410,156,Horst L. Störmer,male,1949-04-06,Frankfurt-on-the-Main,West Germany,Germany,Europe,
+411,408,Howard M. Temin,male,1934-12-10,"Philadelphia, PA",USA,USA,North America,1994-02-09
+412,359,Hugo Theorell,male,1903-07-06,Linköping,Sweden,Sweden,Europe,1982-08-15
+413,71,Igor Y. Tamm,male,1895-07-08,Vladivostok,Russia,Russia,Europe,1971-04-12
+414,721,Il´ja M. Frank,male,1908-10-23,Leningrad,Russia,Russia,Europe,1990-06-22
+415,301,Ilya Mechnikov,male,1845-05-15,Kharkov,Russian Empire,Ukraine,Europe,1916-07-15
+416,250,Ilya Prigogine,male,1917-01-25,Moscow,Russia,Russia,Europe,2003-05-28
+417,761,Imre Kertész,male,1929-11-09,Budapest,Hungary,Hungary,Europe,2016-03-31
+418,467,,,,,,,,
+419,818,,,,,,,,
+420,797,,,,,,,,
+421,948,,,,,,,,
+422,564,,,,,,,,
+423,482,,,,,,,,
+424,527,,,,,,,,
+425,547,,,,,,,,
+426,194,Irène Joliot-Curie,female,1897-09-12,Paris,France,France,Europe,1956-03-17
+427,191,Irving Langmuir,male,1881-01-31,"Brooklyn, NY",USA,USA,North America,1957-08-16
+428,781,Irwin Rose,male,1926-07-16,"Brooklyn, NY",USA,USA,North America,2015-06-03
+429,654,Isaac Bashevis Singer,male,1904-07-14,Leoncin,Russian Empire,Poland,Europe,1991-07-24
+430,906,Isamu Akasaki,male,1929-01-30,Chiran,Japan,Japan,Asia,2021-04-01
+431,49,Isidor Isaac Rabi,male,1898-07-29,Rymanow,Austria-Hungary,Poland,Europe,1988-01-11
+432,606,Ivan Bunin,male,1870-10-22,Voronezh,Russia,Russia,Europe,1953-11-08
+433,296,Ivan Pavlov,male,1849-09-14,Ryazan,Russia,Russia,Europe,1936-02-27
+434,98,Ivar Giaever,male,1929-04-05,Bergen,Norway,Norway,Europe,2025-06-20
+435,633,Ivo Andrić,male,1892-10-10,Dolac,Bosnia,Bosnia and Herzegovina,Europe,1975-03-13
+436,130,J. Georg Bednorz,male,1950-05-16,Neuenkirchen,West Germany,Germany,Europe,
+437,80,J. Hans D. Jensen,male,1907-06-25,Hamburg,Germany,Germany,Europe,1973-02-11
+438,763,J. M. Coetzee,male,1940-02-09,Cape Town,South Africa,South Africa,Africa,
+439,440,J. Michael Bishop,male,1936-02-22,"York, PA",USA,USA,North America,
+440,930,J. Michael Kosterlitz,male,1943-06-22,Aberdeen,United Kingdom,United Kingdom,Europe,
+441,790,J. Robin Warren,male,1937-06-11,Adelaide,Australia,Australia,Oceania,2024-07-23
+442,10,J.J. Thomson,male,1856-12-18,Cheetham Hill,United Kingdom,United Kingdom,Europe,1940-08-30
+443,592,Jacinto Benavente,male,1866-08-12,Madrid,Spain,Spain,Europe,1954-07-14
+444,728,Jack Kilby,male,1923-11-08,"Jefferson City, MO",USA,USA,North America,2005-06-20
+445,134,Jack Steinberger,male,1921-05-25,Bad Kissingen,Germany,Germany,Europe,2020-12-12
+446,837,Jack W. Szostak,male,1952-11-09,London,United Kingdom,United Kingdom,Europe,
+447,160,Jacobus H. van 't Hoff,male,1852-08-30,Rotterdam,the Netherlands,the Netherlands,Europe,1911-03-01
+448,944,Jacques Dubochet,male,1942-06-08,Aigle,Switzerland,Switzerland,Europe,
+449,382,Jacques Monod,male,1910-02-09,Paris,France,France,Europe,1976-05-31
+450,715,James A. Mirrlees,male,1936-07-05,Minnigaff,Scotland,Scotland,Europe,2018-08-29
+451,1046,James A. Robinson,male,1960-00-00,,,,,
+452,204,James B. Sumner,male,1887-11-19,"Canton, MA",USA,USA,North America,1955-08-12
+453,41,James Chadwick,male,1891-10-20,Manchester,United Kingdom,United Kingdom,Europe,1974-07-24
+454,116,James Cronin,male,1931-09-29,"Chicago, IL",USA,USA,North America,2016-08-25
+455,690,James E. Meade,male,1907-06-23,Swanage,United Kingdom,United Kingdom,Europe,1995-12-22
+456,884,James E. Rothman,male,1950-11-03,"Haverhill, MA",USA,USA,North America,
+457,30,James Franck,male,1882-08-26,Hamburg,Germany,Germany,Europe,1964-05-21
+458,732,James J. Heckman,male,1944-04-19,"Chicago, IL",USA,USA,North America,
+459,700,James M. Buchanan Jr.,male,1919-10-03,"Murfreesboro, TN",USA,USA,North America,2013-01-09
+460,958,James P. Allison,male,1948-08-07,"Alice, TX",USA,USA,North America,
+461,973,James Peebles,male,1935-04-25,Winnipeg,Canada,Canada,North America,
+462,104,James Rainwater,male,1917-12-09,"Council, ID",USA,USA,North America,1986-05-31
+463,695,James Tobin,male,1918-03-05,"Champaign, IL",USA,USA,North America,2002-03-11
+464,373,James Watson,male,1928-04-06,"Chicago, IL",USA,USA,North America,
+465,678,Jan Tinbergen,male,1903-04-12,the Hague,the Netherlands,the Netherlands,Europe,1994-06-09
+466,496,Jane Addams,female,1860-09-06,"Cedarville, IL",USA,USA,North America,1935-05-21
+467,223,Jaroslav Heyrovsky,male,1890-12-20,Prague,Austria-Hungary,Czech Republic,Europe,1967-03-27
+468,661,Jaroslav Seifert,male,1901-09-23,Prague,Austria-Hungary,Czech Republic,Europe,1986-01-10
+469,32,Jean Baptiste Perrin,male,1870-09-30,Lille,France,France,Europe,1942-04-17
+470,420,Jean Dausset,male,1916-10-19,Toulouse,France,France,Europe,2009-06-06
+471,915,Jean Tirole,male,1953-08-09,Troyes,France,France,Europe,
+472,832,Jean-Marie Gustave Le Clézio,male,1940-04-13,Nice,France,France,Europe,
+473,268,Jean-Marie Lehn,male,1939-09-30,Rosheim,France,France,Europe,
+474,637,Jean-Paul Sartre,male,1905-06-21,Paris,France,France,Europe,1980-04-15
+475,931,Jean-Pierre Sauvage,male,1944-10-21,Paris,France,France,Europe,
+476,938,Jeffrey C. Hall,male,1945-05-03,"New York, NY",USA,USA,North America,
+477,992,Jennifer A. Doudna,female,1964-02-19,"Washington, D.C.",USA,USA,North America,
+478,289,Jens C. Skou,male,1918-10-08,Lemvig,Denmark,Denmark,Europe,2018-05-28
+479,138,Jerome I. Friedman,male,1930-03-28,"Chicago, IL",USA,USA,North America,
+480,263,Jerome Karle,male,1918-06-18,"New York, NY",USA,USA,North America,2013-06-06
+481,762,Jimmy Carter,male,1924-10-01,"Plains, GA",USA,USA,North America,2024-12-29
+482,945,Joachim Frank,male,1940-09-12,Siegen,Germany,Germany,Europe,
+483,565,Jody Williams,female,1950-10-09,"Rutland, VT",USA,USA,North America,
+484,270,Johann Deisenhofer,male,1943-09-30,Zusamaltheim,Germany,Germany,Europe,
+485,15,Johannes Diderik van der Waals,male,1837-11-23,Leiden,the Netherlands,the Netherlands,Europe,1923-03-08
+486,316,Johannes Fibiger,male,1867-04-23,Silkeborg,Denmark,Denmark,Europe,1928-01-30
+487,24,Johannes Stark,male,1874-04-15,Schickenhof,Germany,Germany,Europe,1957-06-21
+488,614,Johannes V. Jensen,male,1873-01-20,Farsø,Denmark,Denmark,Europe,1950-11-25
+489,756,John B. Fenn,male,1917-06-15,"New York, NY",USA,USA,North America,2010-12-10
+490,976,John B. Goodenough,male,1922-07-25,Jena,Germany,Germany,Europe,2023-06-25
+491,66,John Bardeen,male,1908-05-23,"Madison, WI",USA,USA,North America,1991-01-30
+492,711,John C. Harsanyi,male,1920-05-29,Budapest,Hungary,Hungary,Europe,2000-08-09
+493,227,John C. Kendrew,male,1917-03-24,Oxford,United Kingdom,United Kingdom,Europe,1997-08-23
+494,804,John C. Mather,male,1946-08-07,"Roanoke, VA",USA,USA,North America,
+495,266,John C. Polanyi,male,1929-01-23,Berlin,Germany,Germany,Europe,
+496,1013,John Clauser,male,1942-12-01,"Pasadena, CA",USA,USA,North America,
+497,56,John Cockcroft,male,1897-05-27,Todmorden,United Kingdom,United Kingdom,Europe,1967-09-18
+498,247,John Cornforth,male,1917-09-07,Sydney,Australia,Australia,Oceania,2013-12-08
+499,752,John E. Sulston,male,1942-03-27,Fulmer,United Kingdom,United Kingdom,Europe,2018-03-06
+500,288,John E. Walker,male,1941-01-07,Halifax,United Kingdom,United Kingdom,Europe,
+501,356,John F. Enders,male,1897-02-10,"West Hartford, CT",USA,USA,North America,1985-09-08
+502,712,John F. Nash Jr.,male,1928-06-13,"Bluefield, WV",USA,USA,North America,2015-05-23
+503,605,John Galsworthy,male,1867-08-14,Kingston Hill,United Kingdom,United Kingdom,Europe,1933-01-31
+504,205,John H. Northrop,male,1891-07-05,"Yonkers, NY",USA,USA,North America,1987-05-27
+505,109,John H. Van Vleck,male,1899-03-13,"Middletown, CT",USA,USA,North America,1980-10-27
+506,566,John Hume,male,1937-01-18,Londonderry,Northern Ireland,Northern Ireland,Europe,2020-08-03
+507,1037,John J. Hopfield,male,1933-07-15,"Chicago, IL",USA,USA,North America,
+508,1041,John Jumper,male,1985-00-00,"Little Rock, AR",USA,USA,North America,
+509,792,John L. Hall,male,1934-08-21,"Denver, CO",USA,USA,North America,
+510,314,John Macleod,male,1876-09-06,Cluny,Scotland,Scotland,Europe,1935-03-16
+511,903,John O'Keefe,male,1939-11-18,"New York, NY",USA,USA,North America,
+512,291,John Pople,male,1925-10-31,Burnham-on-Sea,United Kingdom,United Kingdom,Europe,2004-03-15
+513,681,John R. Hicks,male,1904-04-08,Warwick,United Kingdom,United Kingdom,Europe,1989-05-20
+514,507,John R. Mott,male,1865-05-25,"Livingston Manor, NY",USA,USA,North America,1955-01-31
+515,427,John R. Vane,male,1927-03-29,Tardebigg,United Kingdom,United Kingdom,Europe,2004-11-19
+516,634,John Steinbeck,male,1902-02-27,"Salinas, CA",USA,USA,North America,1968-12-20
+517,1032,Jon Fosse,male,1959-09-29,Haugesund,Norway,Norway,Europe,
+518,574,José Echegaray,male,1832-04-19,Madrid,Spain,Spain,Europe,1916-09-04
+519,563,José Ramos-Horta,male,1949-12-26,Dili,East Timor,East Timor,Oceania,
+520,675,José Saramago,male,1922-11-16,Azinhaga,Portugal,Portugal,Europe,2010-06-18
+521,664,Joseph Brodsky,male,1940-05-24,Leningrad,USSR,Russia,Europe,1996-01-28
+522,442,Joseph E. Murray,male,1919-04-01,"Milford, MA",USA,USA,North America,2012-11-26
+523,746,Joseph E. Stiglitz,male,1943-02-09,"Gary, IN",USA,USA,North America,
+524,337,Joseph Erlanger,male,1874-01-05,"San Francisco, CA",USA,USA,North America,1965-12-05
+525,144,Joseph H. Taylor Jr.,male,1941-03-29,"Philadelphia, PA",USA,USA,North America,
+526,433,Joseph L. Goldstein,male,1940-04-18,"Sumter, SC",USA,USA,North America,
+527,560,Joseph Rotblat,male,1908-11-04,Warsaw,Russian Empire,Poland,Europe,2005-08-31
+528,1008,Joshua D. Angrist,male,1960-09-18,"Columbus, OH",USA,USA,North America,
+529,366,Joshua Lederberg,male,1925-05-23,"Montclair, NJ",USA,USA,North America,2008-02-02
+530,934,Juan Manuel Santos,male,1951-08-10,Bogotá,Colombia,Colombia,South America,
+531,627,Juan Ramón Jiménez,male,1881-12-24,Moguer,Spain,Spain,Europe,1958-05-29
+532,862,Jules A. Hoffmann,male,1941-08-02,Echternach,Luxembourg,Luxembourg,Europe,
+533,309,Jules Bordet,male,1870-06-13,Soignies,Belgium,Belgium,Europe,1961-04-06
+534,85,Julian Schwinger,male,1918-02-12,"New York, NY",USA,USA,North America,1994-07-16
+535,396,Julius Axelrod,male,1912-05-30,"New York, NY",USA,USA,North America,2004-12-29
+536,317,Julius Wagner-Jauregg,male,1857-03-07,Wels,Austria,Austria,Europe,1940-09-27
+537,131,K. Alex Müller,male,1927-04-20,Basel,Switzerland,Switzerland,Europe,2023-01-09
+538,743,K. Barry Sharpless,male,1941-04-28,"Philadelphia, PA",USA,USA,North America,
+539,120,Kai M. Siegbahn,male,1918-04-20,Lund,Sweden,Sweden,Europe,2007-07-20
+540,913,Kailash Satyarthi,male,1954-01-11,Vidisha,India,India,Asia,
+541,586,Karl Gjellerup,male,1857-06-02,Roholte,Denmark,Denmark,Europe,1919-10-11
+542,321,Karl Landsteiner,male,1868-06-14,Vienna,Austrian Empire,Austria,Europe,1943-06-26
+543,400,Karl von Frisch,male,1886-11-20,Vienna,Austria,Austria,Europe,1982-06-12
+544,228,Karl Ziegler,male,1898-11-26,Helsa,Germany,Germany,Europe,1973-08-12
+545,278,Kary B. Mullis,male,1944-12-28,"Lenoir, NC",USA,USA,North America,2019-08-07
+546,1024,Katalin Karikó,female,1955-01-17,Szolnok,Hungary,Hungary,Europe,
+547,947,Kazuo Ishiguro,male,1954-11-08,Nagasaki,Japan,Japan,Asia,
+548,386,Keffer Hartline,male,1903-12-22,"Bloomsburg, PA",USA,USA,North America,1983-03-17
+549,257,Kenichi Fukui,male,1918-10-04,Nara,Japan,Japan,Asia,1998-01-09
+550,121,Kenneth G. Wilson,male,1936-06-08,"Waltham, MA",USA,USA,North America,2013-06-15
+551,682,Kenneth J. Arrow,male,1921-08-23,"New York, NY",USA,USA,North America,2017-02-21
+552,671,Kenzaburo Oe,male,1935-01-31,Uchiko,Japan,Japan,Asia,2023-03-03
+553,725,Kim Dae-jung,male,1924-01-08,Mokpo,Korea,South Korea,Asia,2009-08-18
+554,943,Kip S. Thorne,male,1940-06-01,"Logan, UT",USA,USA,North America,
+555,473,Klas Pontus Arnoldson,male,1844-10-27,Gothenburg,Sweden,Sweden,Europe,1916-02-20
+556,1000,Klaus Hasselmann,male,1931-10-25,Hamburg,Germany,Germany,Europe,
+557,126,Klaus von Klitzing,male,1943-06-28,Schroda,German-occupied Poland,Poland,Europe,
+558,589,Knut Hamsun,male,1859-08-04,Lom,Norway,Norway,Europe,1952-02-19
+559,749,Kofi Annan,male,1938-04-08,Kumasi,Gold Coast,Ghana,Africa,2018-08-18
+560,757,Koichi Tanaka,male,1959-08-03,Toyama City,Japan,Japan,Asia,
+561,378,Konrad Bloch,male,1912-01-21,Neisse,Germany,Poland,Europe,2000-10-15
+562,401,Konrad Lorenz,male,1903-11-07,Vienna,Austria,Austria,Europe,1989-02-27
+563,850,Konstantin Novoselov,male,1974-08-23,Nizhny Tagil,Russia,Russia,Europe,
+564,211,Kurt Alder,male,1902-07-10,Königshütte,Prussia,Poland,Europe,1958-06-20
+565,758,Kurt Wüthrich,male,1938-10-04,Aarberg,Switzerland,Switzerland,Europe,
+566,236,Lars Onsager,male,1903-11-27,Kristiania,Norway,Norway,Europe,1976-10-05
+567,895,Lars Peter Hansen,male,1952-10-26,"Urbana, IL",USA,USA,North America,
+568,21,Lawrence Bragg,male,1890-03-31,Adelaide,Australia,Australia,Oceania,1971-07-01
+569,694,Lawrence R. Klein,male,1920-09-14,"Omaha, NE",USA,USA,North America,2013-10-20
+570,531,Le Duc Tho ,male,1911-10-14,Nam Ha province,Vietnam,Vietnam,Asia,1990-10-13
+571,523,,,,,,,,
+572,545,Lech Wałęsa,male,1943-09-29,Popowo,Poland,Poland,Europe,
+573,735,Leland Hartwell,male,1939-10-30,"Los Angeles, CA",USA,USA,North America,
+574,97,Leo Esaki,male,1925-03-12,Osaka,Japan,Japan,Asia,
+575,484,Léon Bourgeois,male,1851-05-21,Paris,France,France,Europe,1925-09-29
+576,512,Léon Jouhaux,male,1879-07-01,Paris,France,France,Europe,1954-04-28
+577,132,Leon M. Lederman,male,1922-07-15,"New York, NY",USA,USA,North America,2018-10-03
+578,95,Leon N. Cooper,male,1930-02-28,"New York, NY",USA,USA,North America,2024-10-23
+579,820,Leonid Hurwicz,male,1917-08-21,Moscow,Russia,Russia,Europe,2008-06-24
+580,686,Leonid Vitaliyevich Kantorovich,male,1912-01-19,St. Petersburg,Russian Empire,Russia,Europe,1986-04-07
+581,200,Leopold Ruzicka,male,1887-09-13,Vukovar,Austria-Hungary,Croatia,Europe,1976-09-26
+582,516,Lester Bowles Pearson,male,1897-04-23,Toronto,Canada,Canada,North America,1972-12-27
+583,77,Lev Landau,male,1908-01-22,Baku,Russian Empire,Azerbaijan,Asia,1968-04-01
+584,870,Leymah Gbowee,female,1972-02-01,Monrovia,Liberia,Liberia,Africa,
+585,775,Linda B. Buck,female,1947-01-29,"Seattle, WA",USA,USA,North America,
+586,217,Linus Pauling,male,1901-02-28,"Portland, OR",USA,USA,North America,1994-08-19
+587,855,Liu Xiaobo,male,1955-12-28,Changchun,China,China,Asia,2017-07-13
+588,883,Lloyd S. Shapley,male,1923-06-02,"Cambridge, MA",USA,USA,North America,2016-03-12
+589,510,Lord Boyd Orr,male,1880-09-23,Kilmaurs,Scotland,Scotland,Europe,1971-06-25
+590,8,Lord Rayleigh,male,1842-11-12,"Langford Grove, Maldon, Essex",United Kingdom,United Kingdom,Europe,1919-06-30
+591,221,Lord Todd,male,1907-10-02,Glasgow,Scotland,Scotland,Europe,1997-01-10
+592,1030,Louis Brus,male,1943-00-00,"Cleveland, OH",USA,USA,North America,
+593,36,Louis de Broglie,male,1892-08-15,Dieppe,France,France,Europe,1987-03-19
+594,459,Louis J. Ignarro,male,1941-05-31,"Brooklyn, NY",USA,USA,North America,
+595,92,Louis Néel,male,1904-11-22,Lyon,France,France,Europe,2000-11-17
+596,472,Louis Renault,male,1843-05-21,Autun,France,France,Europe,1918-02-08
+597,993,Louise Glück,female,1943-04-22,"New York, NY",USA,USA,North America,2023-10-13
+598,825,Luc Montagnier,male,1932-08-18,Chabris,France,France,Europe,2022-02-08
+599,493,Ludwig Quidde,male,1858-03-23,Bremen,Germany,Germany,Europe,1941-03-04
+600,607,Luigi Pirandello,male,1867-06-28,"Agrigento, Sicily",Italy,Italy,Europe,1936-12-10
+601,89,Luis Alvarez,male,1911-06-13,"San Francisco, CA",USA,USA,North America,1988-09-01
+602,239,Luis Leloir,male,1906-09-06,Paris,France,France,Europe,1987-12-02
+603,977,M. Stanley Whittingham,male,1941-12-22,,United Kingdom,United Kingdom,Europe,
+604,536,Mairead Corrigan,female,1944-01-27,Belfast,Northern Ireland,Northern Ireland,Europe,
+605,827,Makoto Kobayashi,male,1944-04-07,Nagoya,Japan,Japan,Asia,
+606,914,Malala Yousafzai,female,1997-07-12,Mingora,Pakistan,Pakistan,Asia,
+607,233,Manfred Eigen,male,1927-05-09,Bochum,Germany,Germany,Europe,2019-02-06
+608,29,Manne Siegbahn,male,1886-12-03,Örebro,Sweden,Sweden,Europe,1978-09-26
+609,79,Maria Goeppert Mayer,female,1906-06-28,Kattowitz,Germany,Poland,Europe,1972-02-20
+610,1005,Maria Ressa,female,1963-10-02,Manila,Philippines,Philippines,Asia,
+611,6,Marie Curie,female,1867-11-07,Warsaw,Russian Empire,Poland,Europe,1934-07-04
+612,282,Mario J. Molina,male,1943-03-19,Mexico City,Mexico,Mexico,North America,2020-10-07
+613,811,Mario R. Capecchi,male,1937-10-06,Verona,Italy,Italy,Europe,
+614,854,Mario Vargas Llosa,male,1936-03-28,Arequipa,Peru,Peru,South America,2025-04-13
+615,390,Marshall W. Nirenberg,male,1927-04-10,"New York, NY",USA,USA,North America,2010-01-15
+616,830,Martin Chalfie,male,1947-01-15,"Chicago, IL",USA,USA,North America,
+617,889,Martin Karplus,male,1930-03-15,Vienna,Austria,Austria,Europe,2024-12-28
+618,147,Martin L. Perl,male,1927-06-24,"New York, NY",USA,USA,North America,2014-09-30
+619,524,Martin Luther King Jr.,male,1929-01-15,"Atlanta, GA",USA,USA,North America,1968-04-04
+620,451,Martin Rodbell,male,1925-12-01,"Baltimore, MD",USA,USA,North America,1998-12-07
+621,100,Martin Ryle,male,1918-09-27,Brighton,United Kingdom,United Kingdom,Europe,1984-10-14
+622,159,Martinus J.G. Veltman,male,1931-06-27,Waalwijk,the Netherlands,the Netherlands,Europe,2021-01-04
+623,833,Martti Ahtisaari,male,1937-06-23,Viipuri,Finland,Finland,Europe,2023-10-16
+624,754,Masatoshi Koshiba,male,1926-09-19,Toyohashi,Japan,Japan,Asia,2020-11-12
+625,702,Maurice Allais,male,1911-05-31,Paris,France,France,Europe,2010-10-09
+626,581,Maurice Maeterlinck,male,1862-08-29,Ghent,Belgium,Belgium,Europe,1949-05-06
+627,374,Maurice Wilkins,male,1916-12-15,Pongaroa,New Zealand,New Zealand,Oceania,2004-10-05
+628,61,Max Born,male,1882-12-11,Breslau,Germany,Poland,Europe,1970-01-05
+629,391,Max Delbrück,male,1906-09-04,Berlin,Germany,Germany,Europe,1981-03-09
+630,226,Max F. Perutz,male,1914-05-19,Vienna,Austria,Austria,Europe,2002-02-06
+631,23,Max Planck,male,1858-04-23,Kiel,Schleswig,Germany,Europe,1947-10-04
+632,352,Max Theiler,male,1899-01-30,Pretoria,South Africa,South Africa,Africa,1972-08-11
+633,19,Max von Laue,male,1879-10-09,Pfaffendorf,Germany,Germany,Europe,1960-04-23
+634,904,May-Britt Moser,female,1963-01-04,Fosnavåg,Norway,Norway,Europe,
+635,225,Melvin Calvin,male,1911-04-08,"St. Paul, MN",USA,USA,North America,1997-01-08
+636,133,Melvin Schwartz,male,1932-11-02,"New York, NY",USA,USA,North America,2006-08-28
+637,1019,,,,,,,,
+638,539,Menachem Begin,male,1913-08-16,Brest Litovsk,Russian Empire,Belarus,Europe,1992-03-09
+639,705,Merton H. Miller,male,1923-05-16,"Boston, MA",USA,USA,North America,2000-06-03
+640,986,Michael Houghton,male,1949-00-00,,United Kingdom,United Kingdom,Europe,
+641,984,Michael Kremer,male,1964-11-12,"New York, NY",USA,USA,North America,
+642,890,Michael Levitt,male,1947-05-09,Pretoria,South Africa,South Africa,Africa,
+643,939,Michael Rosbash,male,1944-03-07,"Kansas City, MO",USA,USA,North America,
+644,432,Michael S. Brown,male,1941-04-13,"New York, NY",USA,USA,North America,
+645,279,Michael Smith,male,1932-04-26,Blackpool,United Kingdom,United Kingdom,Europe,2000-10-04
+646,940,Michael W. Young,male,1949-03-28,"Miami, FL",USA,USA,North America,
+647,974,Michel Mayor,male,1942-01-12,Lausanne,Switzerland,Switzerland,Europe,
+648,641,Miguel Angel Asturias,male,1899-10-19,Guatemala City,Guatemala,Guatemala,North America,1974-06-09
+649,552,Mikhail Gorbachev,male,1931-03-02,Privolnoye,USSR,Russia,Europe,2022-08-30
+650,638,Mikhail Sholokhov,male,1905-05-24,Veshenskaya,Russia,Russia,Europe,1984-02-21
+651,688,Milton Friedman,male,1912-07-31,"Brooklyn, NY",USA,USA,North America,2006-11-16
+652,880,Mo Yan,male,1956-03-25,Gaomi,China,China,Asia,
+653,798,Mohamed ElBaradei,male,1942-06-17,Cairo,Egypt,Egypt,Africa,
+654,1016,Morten Meldal,male,1954-00-00,Copenhagen,Denmark,Denmark,Europe,
+655,540,Mother Teresa,female,1910-08-26,Uskup,Ottoman Empire,North Macedonia,Europe,1997-09-05
+656,1029,Moungi Bawendi,male,1961-00-00,Paris,France,France,Europe,
+657,809,Muhammad Yunus,male,1940-06-28,Chittagong,British India,Bangladesh,Asia,
+658,90,Murray Gell-Mann,male,1929-09-15,"New York, NY",USA,USA,North America,2019-05-24
+659,718,Myron Scholes,male,1941-07-01,"Timmins, ON",Canada,Canada,North America,
+660,967,Nadia Murad,female,1993-03-10,Kojo,Iraq,Iraq,Asia,
+661,668,Nadine Gordimer,female,1923-11-20,Springs,South Africa,South Africa,Africa,2014-07-13
+662,665,Naguib Mahfouz,male,1911-12-11,Cairo,Egypt,Egypt,Africa,2006-08-30
+663,503,,,,,,,,
+664,1033,Narges Mohammadi,female,1972-04-21,Zanjan,Iran,Iran,Asia,
+665,495,Nathan Söderblom,male,1866-01-15,Trönö,Sweden,Sweden,Europe,1931-07-12
+666,925,,,,,,,,
+667,640,Nelly Sachs,female,1891-12-10,Berlin,Germany,Germany,Europe,1970-05-12
+668,555,Nelson Mandela,male,1918-07-18,Mvezo,South Africa,South Africa,Africa,2013-12-05
+669,497,Nicholas Murray Butler,male,1862-04-02,"Elizabeth, NJ",USA,USA,North America,1947-12-07
+670,118,Nicolaas Bloembergen,male,1920-03-11,Dordrecht,the Netherlands,the Netherlands,Europe,2017-09-05
+671,82,Nicolay G. Basov,male,1922-12-14,Usman,USSR,Russia,Europe,2001-07-01
+672,27,Niels Bohr,male,1885-10-07,Copenhagen,Denmark,Denmark,Europe,1962-11-18
+673,429,Niels K. Jerne,male,1911-12-23,London,United Kingdom,United Kingdom,Europe,1994-10-07
+674,295,Niels Ryberg Finsen,male,1860-12-15,Thorshavn,Faroe Islands (Denmark),Faroe Islands (Denmark),Europe,1904-09-24
+675,1043,,,,,,,,
+676,402,Nikolaas Tinbergen,male,1907-04-15,the Hague,the Netherlands,the Netherlands,Europe,1988-12-21
+677,220,Nikolay Semenov,male,1896-04-03,Saratov,Russia,Russia,Europe,1986-09-25
+678,528,Norman Borlaug,male,1914-03-25,"Cresco, IA",USA,USA,North America,2009-09-12
+679,135,Norman F. Ramsey,male,1915-08-27,"Washington, D.C.",USA,USA,North America,2011-11-04
+680,196,Norman Haworth,male,1883-03-19,Chorley,United Kingdom,United Kingdom,Europe,1950-03-19
+681,667,Octavio Paz,male,1914-03-31,Mexico City,Mexico,Mexico,North America,1998-04-19
+682,238,Odd Hassel,male,1897-05-17,Kristiania,Norway,Norway,Europe,1981-05-11
+683,655,Odysseus Elytis,male,1911-11-02,Iráklion,Crete,Greece,Europe,1996-03-18
+684,515,,,,,,,,
+685,979,Olga Tokarczuk,female,1962-01-29,Sulechów,Poland,Poland,Europe,
+686,847,Oliver E. Williamson,male,1932-09-27,"Superior, WI",USA,USA,North America,
+687,935,Oliver Hart,male,1948-10-09,London,United Kingdom,United Kingdom,Europe,
+688,813,Oliver Smithies,male,1925-06-23,Halifax,United Kingdom,United Kingdom,Europe,2017-01-10
+689,893,,,,,,,,
+690,808,Orhan Pamuk,male,1952-06-07,Istanbul,Turkey,Turkey,Asia,
+691,829,Osamu Shimomura,male,1928-08-27,Kyoto,Japan,Japan,Asia,2018-10-19
+692,549,Oscar Arias Sánchez,male,1940-09-13,Heredia,Costa Rica,Costa Rica,North America,
+693,210,Otto Diels,male,1876-01-23,Hamburg,Germany,Germany,Europe,1954-03-07
+694,202,Otto Hahn,male,1879-03-08,Frankfurt-on-the-Main,Germany,Germany,Europe,1968-07-28
+695,331,Otto Loewi,male,1873-06-03,Frankfurt-on-the-Main,Germany,Germany,Europe,1961-12-25
+696,312,Otto Meyerhof,male,1884-04-12,Hanover,Germany,Germany,Europe,1951-10-06
+697,48,Otto Stern,male,1888-02-17,Sorau,Germany,Poland,Europe,1969-08-17
+698,169,Otto Wallach,male,1847-03-27,Koenigsberg,Germany,Russia,Europe,1931-02-26
+699,322,Otto Warburg,male,1883-10-08,Freiburg im Breisgau,Germany,Germany,Europe,1970-08-01
+700,73,Owen Chamberlain,male,1920-07-10,"San Francisco, CA",USA,USA,North America,2006-02-28
+701,35,Owen Willans Richardson,male,1879-04-26,Dewsbury,United Kingdom,United Kingdom,Europe,1959-02-15
+702,645,Pablo Neruda,male,1904-07-12,Parral,Chile,Chile,South America,1973-09-23
+703,622,Pär Lagerkvist,male,1891-05-23,Växjö,Sweden,Sweden,Europe,1974-07-11
+704,53,Patrick M.S. Blackett,male,1897-11-18,London,United Kingdom,United Kingdom,Europe,1974-07-13
+705,912,Patrick Modiano,male,1945-07-30,Paris,France,France,Europe,
+706,648,Patrick White,male,1912-05-28,London,United Kingdom,United Kingdom,Europe,1990-09-30
+707,679,Paul A. Samuelson,male,1915-05-15,"Gary, IN",USA,USA,North America,2009-12-13
+708,40,Paul A.M. Dirac,male,1902-08-08,Bristol,United Kingdom,United Kingdom,Europe,1984-10-20
+709,254,Paul Berg,male,1926-06-30,"New York, NY",USA,USA,North America,2023-02-15
+710,764,Paul C. Lauterbur,male,1929-05-06,"Sidney, OH",USA,USA,North America,2007-03-27
+711,287,Paul D. Boyer,male,1918-07-31,"Provo, UT",USA,USA,North America,2018-06-02
+712,302,Paul Ehrlich,male,1854-03-14,Strehlen,Prussia,Poland,Europe,1915-08-20
+713,723,Paul Greengard,male,1925-12-11,"New York, NY",USA,USA,North America,2019-04-13
+714,476,Paul Henri d'Estournelles de Constant,male,1852-11-22,La Flèche,France,France,Europe,1924-05-15
+715,580,Paul Heyse,male,1830-03-15,Berlin,Prussia,Germany,Europe,1914-04-02
+716,281,Paul J. Crutzen,male,1933-12-03,Amsterdam,the Netherlands,the Netherlands,Europe,2021-01-28
+717,246,Paul J. Flory,male,1910-06-19,"Sterling, IL",USA,USA,North America,1985-09-08
+718,197,Paul Karrer,male,1889-04-21,Moscow,Russia,Russia,Europe,1971-06-18
+719,834,Paul Krugman,male,1953-02-28,"New York, NY",USA,USA,North America,
+720,969,Paul M. Romer,male,1955-00-00,"Denver, CO",USA,USA,North America,
+721,922,Paul Modrich,male,1946-06-13,"Raton, NM",USA,USA,North America,
+722,346,Paul Müller,male,1899-01-12,Olten,Switzerland,Switzerland,Europe,1965-10-12
+723,995,Paul R. Milgrom,male,1948-04-20,"Detroit, MI",USA,USA,North America,
+724,173,Paul Sabatier,male,1854-11-05,Carcassonne,France,France,Europe,1941-08-14
+725,70,Pavel A. Cherenkov,male,1904-07-28,Novaya Chigla,Russia,Russia,Europe,1990-01-06
+726,610,Pearl Buck,female,1892-06-26,"Hillsboro, WV",USA,USA,North America,1973-03-06
+727,51,Percy W. Bridgman,male,1882-04-21,"Cambridge, MA",USA,USA,North America,1961-08-20
+728,477,,,,,,,,
+729,856,Peter A. Diamond,male,1940-04-29,"New York, NY",USA,USA,North America,
+730,769,Peter Agre,male,1949-01-30,"Northfield, MN",USA,USA,North America,
+731,455,Peter C. Doherty,male,1940-10-15,Brisbane,Australia,Australia,Oceania,
+732,195,Peter Debye,male,1884-03-24,Maastricht,the Netherlands,the Netherlands,Europe,1966-11-02
+733,815,Peter Grünberg,male,1939-05-18,Plzen,Czechoslovakia,Czech Republic,Europe,2018-04-09
+734,980,Peter Handke,male,1942-12-06,Griffen,Austria,Austria,Europe,
+735,888,Peter Higgs,male,1929-05-29,Newcastle upon Tyne,United Kingdom,United Kingdom,Europe,2024-04-08
+736,370,Peter Medawar,male,1915-02-28,Rio de Janeiro,Brazil,Brazil,South America,1987-10-02
+737,251,Peter Mitchell,male,1920-09-29,Mitcham,United Kingdom,United Kingdom,Europe,1992-04-10
+738,383,Peyton Rous,male,1879-10-05,"Baltimore, MD",USA,USA,North America,1970-02-16
+739,1023,Philip Dybvig,male,1955-05-22,"Gainesville, FL",USA,USA,North America,
+740,518,Philip Noel-Baker,male,1889-11-01,London,United Kingdom,United Kingdom,Europe,1982-10-08
+741,351,Philip S. Hench,male,1896-02-28,"Pittsburgh, PA",USA,USA,North America,1965-03-30
+742,107,Philip W. Anderson,male,1923-12-13,"Indianapolis, IN",USA,USA,North America,2020-03-29
+743,9,Philipp Lenard,male,1862-06-07,Pressburg,Hungary,Slovakia,Europe,1947-05-20
+744,449,Phillip A. Sharp,male,1944-06-06,"Falmouth, KY",USA,USA,North America,
+745,1026,Pierre Agostini,male,1941-07-23,Tunis,French protectorate of Tunisia,Tunisia,Africa,
+746,5,Pierre Curie,male,1859-05-15,Paris,France,France,Europe,1906-04-19
+747,141,Pierre-Gilles de Gennes,male,1932-10-24,Paris,France,France,Europe,2007-05-18
+748,3,Pieter Zeeman,male,1865-05-25,Zonnemaire,the Netherlands,the Netherlands,Europe,1943-10-09
+749,64,Polykarp Kusch,male,1911-01-26,Blankenburg,Germany,Germany,Europe,1993-03-20
+750,561,,,,,,,,
+751,110,Pyotr Kapitsa,male,1894-07-09,Kronshtadt,Russian Empire,Russia,Europe,1984-04-08
+752,583,Rabindranath Tagore,male,1861-05-07,Calcutta,India,India,Asia,1941-08-07
+753,677,Ragnar Frisch,male,1895-03-03,Oslo,Norway,Norway,Europe,1973-01-31
+754,385,Ragnar Granit,male,1900-10-30,Helsinki,Russian Empire,Finland,Europe,1991-03-12
+755,941,Rainer Weiss,male,1932-09-29,Berlin,Germany,Germany,Europe,2025-08-25
+756,511,Ralph Bunche,male,1904-08-07,"Detroit, MI",USA,USA,North America,1971-12-09
+757,863,Ralph M. Steinman,male,1943-01-14,Montreal,Canada,Canada,North America,2011-09-30
+758,466,Randal Cremer,male,1828-03-18,Fareham,United Kingdom,United Kingdom,Europe,1908-07-22
+759,885,Randy W. Schekman,male,1948-12-30,"St. Paul, MN",USA,USA,North America,
+760,753,Raymond Davis Jr.,male,1914-10-14,"Washington, D.C.",USA,USA,North America,2006-05-31
+761,989,Reinhard Genzel,male,1952-03-24,Bad Homburg vor der Höhe,Germany,Germany,Europe,
+762,713,Reinhard Selten,male,1930-10-05,Breslau,Germany,Poland,Europe,2016-08-23
+763,407,Renato Dulbecco,male,1914-02-22,Catanzaro,Italy,Italy,Europe,2012-02-19
+764,526,René Cassin,male,1887-10-05,Bayonne,France,France,Europe,1976-02-20
+765,755,Riccardo Giacconi,male,1931-10-06,Genoa,Italy,Italy,Europe,2018-12-16
+766,774,Richard Axel,male,1946-07-02,"New York, NY",USA,USA,North America,
+767,286,Richard E. Smalley,male,1943-06-06,"Akron, OH",USA,USA,North America,2005-10-28
+768,140,Richard E. Taylor,male,1929-11-02,"Medicine Hat, Alberta",Canada,Canada,North America,2018-02-22
+769,851,Richard F. Heck,male,1931-08-15,"Springfield, MA",USA,USA,North America,2015-10-09
+770,949,Richard H. Thaler,male,1945-09-12,"East Orange, NJ",USA,USA,North America,
+771,946,Richard Henderson,male,1945-07-19,Edinburgh,Scotland,Scotland,Europe,
+772,448,Richard J. Roberts,male,1943-09-06,Derby,United Kingdom,United Kingdom,Europe,
+773,198,Richard Kuhn,male,1900-12-03,Vienna,Austria-Hungary,Austria,Europe,1967-07-31
+774,215,Richard L.M. Synge,male,1914-10-28,Liverpool,United Kingdom,United Kingdom,Europe,1994-08-18
+775,86,Richard P. Feynman,male,1918-05-11,"New York, NY",USA,USA,North America,1988-02-15
+776,276,Richard R. Ernst,male,1933-08-14,Winterthur,Switzerland,Switzerland,Europe,2021-06-04
+777,796,Richard R. Schrock,male,1945-01-04,"Berne, IN",USA,USA,North America,
+778,698,Richard Stone,male,1913-08-30,London,United Kingdom,United Kingdom,Europe,1991-12-06
+779,176,Richard Willstätter,male,1872-08-13,Karlsruhe,Germany,Germany,Europe,1942-08-03
+780,182,Richard Zsigmondy,male,1865-04-01,Vienna,Austrian Empire,Austria,Europe,1929-09-24
+781,554,Rigoberta Menchú Tum,female,1959-01-09,Aldea Chimel,Guatemala,Guatemala,North America,
+782,435,Rita Levi-Montalcini,female,1909-04-22,Turin,Italy,Italy,Europe,2012-12-30
+783,258,Roald Hoffmann,male,1937-07-18,Zloczov,Poland,Ukraine,Europe,
+784,28,Robert A. Millikan,male,1868-03-22,"Morrison, IL",USA,USA,North America,1953-12-19
+785,155,Robert B. Laughlin,male,1950-11-01,"Visalia, CA",USA,USA,North America,
+786,996,Robert B. Wilson,male,1937-05-16,"Geneva, NE",USA,USA,North America,
+787,231,Robert B. Woodward,male,1917-04-10,"Boston, MA",USA,USA,North America,1979-07-08
+788,308,Robert Bárány,male,1876-04-22,Vienna,Austria,Austria,Europe,1936-04-08
+789,717,Robert C. Merton,male,1944-07-31,"New York, NY",USA,USA,North America,
+790,151,Robert C. Richardson,male,1937-06-26,"Washington, D.C.",USA,USA,North America,2013-02-19
+791,502,"Robert Cecil, Viscount Cecil of Chelwood",male,1864-09-14,London,United Kingdom,United Kingdom,Europe,1958-11-24
+792,714,Robert E. Lucas Jr.,male,1937-09-15,"Yakima, WA",USA,USA,North America,2023-05-15
+793,284,Robert F. Curl Jr.,male,1933-08-23,"Alice, TX",USA,USA,North America,2022-07-03
+794,771,Robert F. Engle III,male,1942-11-10,"Syracuse, NY",USA,USA,North America,
+795,458,Robert F. Furchgott,male,1916-06-04,"Charleston, SC",USA,USA,North America,2009-05-19
+796,848,Robert G. Edwards,male,1925-09-27,Batley,United Kingdom,United Kingdom,Europe,2013-04-10
+797,795,Robert H. Grubbs,male,1942-02-27,"Possum Trot, KY",USA,USA,North America,2021-12-19
+798,75,Robert Hofstadter,male,1915-02-05,"New York, NY",USA,USA,North America,1990-11-17
+799,271,Robert Huber,male,1937-02-20,Munich,Germany,Germany,Europe,
+800,799,Robert J. Aumann,male,1930-06-08,Frankfurt-on-the-Main,Germany,Germany,Europe,
+801,878,Robert J. Lefkowitz,male,1943-04-15,"New York, NY",USA,USA,North America,
+802,896,Robert J. Shiller,male,1946-03-29,"Detroit, MI",USA,USA,North America,
+803,297,Robert Koch,male,1843-12-11,Clausthal,Germany,Germany,Europe,1910-05-27
+804,701,Robert M. Solow,male,1924-08-23,"Brooklyn, NY",USA,USA,North America,2023-12-21
+805,720,Robert Mundell,male,1932-10-24,"Kingston, ON",Canada,Canada,North America,2021-04-04
+806,232,Robert S. Mulliken,male,1896-06-07,"Newburyport, MA",USA,USA,North America,1986-10-31
+807,96,Robert Schrieffer,male,1931-05-31,"Oak Park, IL",USA,USA,North America,2019-07-27
+808,709,Robert W. Fogel,male,1927-07-01,"New York, NY",USA,USA,North America,2013-06-11
+809,388,Robert W. Holley,male,1922-01-28,"Urbana, IL",USA,USA,North America,1993-02-11
+810,112,Robert Woodrow Wilson,male,1936-01-10,"Houston, TX",USA,USA,North America,
+811,770,Roderick MacKinnon,male,1956-02-19,"Burlington, MA",USA,USA,North America,
+812,399,Rodney R. Porter,male,1917-10-08,Newton-le-Willows,United Kingdom,United Kingdom,Europe,1985-09-06
+813,822,Roger B. Myerson,male,1951-03-29,"Boston, MA",USA,USA,North America,
+814,806,Roger D. Kornberg,male,1947-04-24,"St. Louis, MO",USA,USA,North America,
+815,411,Roger Guillemin,male,1924-01-11,Dijon,France,France,Europe,2024-02-21
+816,609,Roger Martin du Gard,male,1881-03-23,Neuilly-sur-Seine,France,France,Europe,1958-08-22
+817,988,Roger Penrose,male,1931-08-08,Colchester,United Kingdom,United Kingdom,Europe,
+818,422,Roger W. Sperry,male,1913-08-20,"Hartford, CT",USA,USA,North America,1994-04-17
+819,831,Roger Y. Tsien,male,1952-02-01,"New York, NY",USA,USA,North America,2016-08-24
+820,456,Rolf M. Zinkernagel,male,1944-01-06,Basel,Switzerland,Switzerland,Europe,
+821,584,Romain Rolland,male,1866-01-29,Clamecy,France,France,Europe,1944-12-30
+822,234,Ronald G.W. Norrish,male,1897-11-09,Cambridge,United Kingdom,United Kingdom,Europe,1978-06-07
+823,707,Ronald H. Coase,male,1910-12-29,Willesden,United Kingdom,United Kingdom,Europe,2013-09-02
+824,294,Ronald Ross,male,1857-05-13,Almora,India,India,Asia,1932-09-16
+825,413,Rosalyn Yalow,female,1921-07-19,"New York, NY",USA,USA,North America,2011-05-30
+826,791,Roy J. Glauber,male,1925-09-01,"New York, NY",USA,USA,North America,2018-12-26
+827,578,Rudolf Eucken,male,1846-01-05,Aurich,East Friesland,Germany,Europe,1926-09-14
+828,76,Rudolf Mössbauer,male,1929-01-31,Munich,Germany,Germany,Europe,2011-09-14
+829,277,Rudolph A. Marcus,male,1923-07-21,Montreal,Canada,Canada,North America,
+830,577,Rudyard Kipling,male,1865-12-30,Bombay,British India,India,Asia,1936-01-18
+831,143,Russell A. Hulse,male,1950-11-28,"New York, NY",USA,USA,North America,
+832,742,Ryoji Noyori,male,1938-09-03,Kobe,Japan,Japan,Asia,
+833,631,Saint-John Perse,male,1887-05-31,Pointe-à-Pitre,"Guadeloupe, France","Guadeloupe, France",North America,1975-09-20
+834,393,Salvador E. Luria,male,1912-08-13,Turin,Italy,Italy,Europe,1991-02-06
+835,630,Salvatore Quasimodo,male,1901-08-20,Modica,Italy,Italy,Europe,1968-06-14
+836,643,Samuel Beckett,male,1906-04-13,Dublin,Ireland,Ireland,Europe,1989-12-22
+837,106,Samuel C.C. Ting,male,1936-01-27,"Ann Arbor, MI",USA,USA,North America,
+838,299,Santiago Ramón y Cajal,male,1852-05-01,Petilla de Aragón,Spain,Spain,Europe,1934-10-17
+839,917,Satoshi Ōmura,male,1935-07-12,Yamanashi Prefecture,Japan,Japan,Asia,
+840,652,Saul Bellow,male,1915-06-10,"Lachine, Quebec",Canada,Canada,North America,2005-04-05
+841,864,Saul Perlmutter,male,1959-00-00,"Champaign-Urbana, IL",USA,USA,North America,
+842,672,Seamus Heaney,male,1939-04-13,Casteldàwson,Northern Ireland,Northern Ireland,Europe,2013-08-30
+843,532,Seán MacBride,male,1904-01-26,Paris,France,France,Europe,1988-01-15
+844,579,Selma Lagerlöf,female,1858-11-20,Mårbacka,Sweden,Sweden,Europe,1940-03-16
+845,353,Selman A. Waksman,male,1888-07-22,Priluka,Russian Empire,Ukraine,Europe,1973-08-16
+846,876,Serge Haroche,male,1944-09-11,Casablanca,Morocco,Morocco,Africa,
+847,367,Severo Ochoa,male,1905-09-24,Luarca,Spain,Spain,Europe,1993-11-01
+848,113,Sheldon Glashow,male,1932-12-05,"New York, NY",USA,USA,North America,
+849,558,Shimon Peres,male,1923-08-16,Vishneva,Poland,Belarus,Europe,2016-09-28
+850,875,Shinya Yamanaka,male,1962-09-04,Osaka,Japan,Japan,Asia,
+851,773,Shirin Ebadi,female,1947-06-21,Hamadan,Iran,Iran,Asia,
+852,639,Shmuel Agnon,male,1888-07-17,Buczacz,Austria-Hungary,Ukraine,Europe,1970-02-17
+853,908,Shuji Nakamura,male,1954-05-22,Ikata,Japan,Japan,Asia,
+854,273,Sidney Altman,male,1939-05-07,Montreal,Canada,Canada,North America,2022-04-05
+855,601,Sigrid Undset,female,1882-05-20,Kalundborg,Denmark,Denmark,Europe,1949-06-10
+856,1045,Simon Johnson,male,1963-00-00,Sheffield,United Kingdom,United Kingdom,Europe,
+857,680,Simon Kuznets,male,1901-04-30,Pinsk,Russian Empire,Belarus,Europe,1985-07-08
+858,125,Simon van der Meer,male,1925-11-24,the Hague,the Netherlands,the Netherlands,Europe,2011-03-04
+859,84,Sin-Itiro Tomonaga,male,1906-03-31,Kyoto,Japan,Japan,Asia,1979-07-08
+860,603,Sinclair Lewis,male,1885-02-07,"Sauk Centre, MN",USA,USA,North America,1951-01-10
+861,339,Sir Alexander Fleming,male,1881-08-06,Lochfield,Scotland,Scotland,Europe,1955-03-11
+862,693,Sir Arthur Lewis,male,1915-01-23,Castries,British West Indies,Saint Lucia,North America,1991-06-15
+863,488,Sir Austen Chamberlain,male,1863-10-16,Birmingham,United Kingdom,United Kingdom,Europe,1937-03-16
+864,394,Sir Bernard Katz,male,1911-03-26,Leipzig,Germany,Germany,Europe,2003-04-20
+865,37,Sir Chandrasekhara Venkata Raman,male,1888-11-07,Tiruchirappalli,India,India,Asia,1970-11-21
+866,323,Sir Charles Sherrington,male,1857-11-27,London,United Kingdom,United Kingdom,Europe,1952-03-04
+867,219,Sir Cyril Hinshelwood,male,1897-05-19,London,United Kingdom,United Kingdom,Europe,1967-10-09
+868,369,Sir Frank Macfarlane Burnet,male,1899-09-03,Traralgon,Australia,Australia,Oceania,1985-08-31
+869,320,Sir Frederick Hopkins,male,1861-06-20,Eastbourne,United Kingdom,United Kingdom,Europe,1947-05-16
+870,965,Sir Gregory P. Winter,male,1951-04-14,Leicester,United Kingdom,United Kingdom,Europe,
+871,285,Sir Harold Kroto,male,1939-10-07,"Wisbech, Cambridgeshire ",United Kingdom,United Kingdom,Europe,2016-04-30
+872,330,Sir Henry Dale,male,1875-06-09,London,United Kingdom,United Kingdom,Europe,1968-07-23
+873,341,Sir Howard Florey,male,1898-09-24,Adelaide,Australia,Australia,Oceania,1968-02-21
+874,932,Sir J. Fraser Stoddart,male,1942-05-24,Edinburgh,United Kingdom,United Kingdom,Europe,2024-12-30
+875,437,Sir James W. Black,male,1924-06-14,Uddingston,Scotland,Scotland,Europe,2010-03-21
+876,874,Sir John B. Gurdon,male,1933-10-02,Dippenhall,United Kingdom,United Kingdom,Europe,
+877,375,Sir John Eccles,male,1903-01-27,Melbourne,Australia,Australia,Oceania,1997-05-02
+878,812,Sir Martin J. Evans,male,1941-01-01,Stroud,United Kingdom,United Kingdom,Europe,
+879,108,Sir Nevill F. Mott,male,1905-09-30,Leeds,United Kingdom,United Kingdom,Europe,1996-08-08
+880,498,Sir Norman Angell,male,1872-12-26,Holbeach,United Kingdom,United Kingdom,Europe,1967-10-07
+881,737,Sir Paul Nurse,male,1949-01-25,Norwich,United Kingdom,United Kingdom,Europe,
+882,971,Sir Peter J. Ratcliffe,male,1954-05-14,Lancashire,United Kingdom,United Kingdom,Europe,
+883,765,Sir Peter Mansfield,male,1933-10-09,London,United Kingdom,United Kingdom,Europe,2017-02-08
+884,207,Sir Robert Robinson,male,1886-09-13,"Rufford, near Chesterfield",United Kingdom,United Kingdom,Europe,1975-02-08
+885,163,Sir William Ramsay,male,1852-10-02,Glasgow,Scotland,Scotland,Europe,1916-07-23
+886,242,Stanford Moore,male,1913-09-04,"Chicago, IL",USA,USA,North America,1982-08-23
+887,457,Stanley B. Prusiner,male,1942-05-28,"Des Moines, IA",USA,USA,North America,
+888,434,Stanley Cohen,male,1922-11-17,"Brooklyn, NY",USA,USA,North America,2020-02-05
+889,910,Stefan W. Hell,male,1962-12-23,Arad,Romania,Romania,Europe,
+890,152,Steven Chu,male,1948-02-28,"St. Louis, MO",USA,USA,North America,
+891,115,Steven Weinberg,male,1933-05-03,"New York, NY",USA,USA,North America,2021-07-23
+892,122,Subrahmanyan Chandrasekhar,male,1910-10-19,Lahore,India,Pakistan,Asia,1995-08-21
+893,569,Sully Prudhomme,male,1839-03-16,Paris,France,France,Europe,1907-09-07
+894,425,Sune K. Bergström,male,1916-01-10,Stockholm,Sweden,Sweden,Europe,2004-08-15
+895,436,Susumu Tonegawa,male,1939-09-05,Nagoya,Japan,Japan,Asia,
+896,162,Svante Arrhenius,male,1859-02-19,Vik,Sweden,Sweden,Europe,1927-10-02
+897,1011,Svante Pääbo,male,1955-04-20,Stockholm,Sweden,Sweden,Europe,
+898,924,Svetlana Alexievich,female,1948-05-31,Ivano-Frankivsk,Ukraine,Ukraine,Europe,
+899,750,Sydney Brenner,male,1927-01-13,Germiston,South Africa,South Africa,Africa,2019-04-05
+900,999,Syukuro Manabe,male,1931-09-21,"Shingu, Ehime",Japan,Japan,Asia,
+901,619,T.S. Eliot,male,1888-09-26,"St. Louis, MO",USA,USA,North America,1965-01-04
+902,350,Tadeus Reichstein,male,1897-07-20,Wloclawek,Poland,Poland,Europe,1996-08-01
+903,919,Takaaki Kajita,male,1959-03-09,Higashimatsuyama,Japan,Japan,Asia,
+904,959,Tasuku Honjo,male,1942-01-27,Kyoto,Japan,Japan,Asia,
+905,871,Tawakkol Karman,female,1979-02-07,Ta'izz,Yemen,Yemen,Asia,
+906,551,The 14th Dalai Lama,male,1935-07-06,Taktser,Tibet,China,Asia,
+907,183,The Svedberg,male,1884-08-30,Fleräng,Sweden,Sweden,Europe,1971-02-25
+908,303,Theodor Kocher,male,1841-08-25,Bern,Switzerland,Switzerland,Europe,1917-07-27
+909,571,Theodor Mommsen,male,1817-11-30,Garding,Schleswig,Germany,Europe,1903-11-01
+910,793,Theodor W. Hänsch,male,1941-10-30,Heidelberg,Germany,Germany,Europe,
+911,470,Theodore Roosevelt,male,1858-10-27,"New York, NY",USA,USA,North America,1919-01-06
+912,175,Theodore W. Richards,male,1868-01-31,"Germantown, PA",USA,USA,North America,1928-04-02
+913,692,Theodore W. Schultz,male,1902-04-30,"Arlington, SD",USA,USA,North America,1998-02-26
+914,842,Thomas A. Steitz,male,1940-08-23,"Milwaukee, WI",USA,USA,North America,2018-08-23
+915,800,Thomas C. Schelling,male,1921-04-14,"Oakland, CA",USA,USA,North America,2016-12-13
+916,886,Thomas C. Südhof,male,1955-12-22,Göttingen,Germany,Germany,Europe,
+917,325,Thomas H. Morgan,male,1866-09-25,"Lexington, KY",USA,USA,North America,1945-12-04
+918,357,Thomas H. Weller,male,1915-06-15,"Ann Arbor, MI",USA,USA,North America,2008-08-23
+919,872,Thomas J. Sargent,male,1943-07-19,"Pasadena, CA",USA,USA,North America,
+920,602,Thomas Mann,male,1875-06-06,Lübeck,Germany,Germany,Europe,1955-08-12
+921,274,Thomas R. Cech,male,1947-12-08,"Chicago, IL",USA,USA,North America,
+922,736,Tim Hunt,male,1943-02-19,Neston,United Kingdom,United Kingdom,Europe,
+923,687,Tjalling C. Koopmans,male,1910-08-28,'s Graveland,the Netherlands,the Netherlands,Europe,1985-02-26
+924,478,Tobias Asser,male,1838-04-28,Amsterdam,the Netherlands,the Netherlands,Europe,1913-07-29
+925,921,Tomas Lindahl,male,1938-01-28,Stockholm,Sweden,Sweden,Europe,
+926,868,Tomas Tranströmer,male,1931-04-15,Stockholm,Sweden,Sweden,Europe,2015-03-26
+927,670,Toni Morrison,female,1931-02-18,"Lorain, OH",USA,USA,North America,2019-08-05
+928,424,Torsten N. Wiesel,male,1924-06-03,Uppsala,Sweden,Sweden,Europe,
+929,828,Toshihide Maskawa,male,1940-02-07,Nagoya,Japan,Japan,Asia,2021-07-23
+930,703,Trygve Haavelmo,male,1911-12-13,Skedsmo,Norway,Norway,Europe,1999-07-26
+931,69,Tsung-Dao Lee,male,1926-11-24,Shanghai,China,China,Asia,2024-08-04
+932,918,Tu Youyou,female,1930-12-30,Zhejiang Ningbo,China,China,Asia,
+933,395,Ulf von Euler,male,1905-02-07,Stockholm,Sweden,Sweden,Europe,1983-03-09
+934,748,,,,,,,,
+935,525,,,,,,,,
+936,550,,,,,,,,
+937,747,V. S. Naipaul,male,1932-08-17,Chaguanas,Trinidad and Tobago,Trinidad and Tobago,North America,2018-08-11
+938,117,Val Fitch,male,1923-03-10,"Merriman, NE",USA,USA,North America,2015-02-05
+939,841,Venkatraman Ramakrishnan,male,1952-00-00,"Chidambaram, Tamil Nadu",India,India,Asia,
+940,585,Verner von Heidenstam,male,1859-07-06,Olshammar,Sweden,Sweden,Europe,1940-05-20
+941,760,Vernon L. Smith,male,1927-01-01,"Wichita, KS",USA,USA,North America,
+942,653,Vicente Aleixandre,male,1898-04-26,Sevilla,Spain,Spain,Europe,1984-12-14
+943,1035,Victor Ambros,male,1953-12-01,"Hanover, NH",USA,USA,North America,
+944,42,Victor F. Hess,male,1883-06-24,Peggau,Austria,Austria,Europe,1964-12-17
+945,172,Victor Grignard,male,1871-05-06,Cherbourg,France,France,Europe,1935-12-13
+946,218,Vincent du Vigneaud,male,1901-05-18,"Chicago, IL",USA,USA,North America,1978-12-11
+947,767,Vitaly L. Ginzburg,male,1916-10-04,Moscow,Russia,Russia,Europe,2009-11-08
+948,248,Vladimir Prelog,male,1906-07-23,Sarajevo,Austria-Hungary,Bosnia and Herzegovina,Europe,1998-01-07
+949,255,Walter Gilbert,male,1932-03-21,"Boston, MA",USA,USA,North America,
+950,67,Walter H. Brattain,male,1902-02-10,Amoy,China,China,Asia,1987-10-13
+951,347,Walter Hess,male,1881-03-17,Frauenfeld,Switzerland,Switzerland,Europe,1973-08-12
+952,290,Walter Kohn,male,1923-03-09,Vienna,Austria,Austria,Europe,2016-04-19
+953,62,Walther Bothe,male,1891-01-08,Oranienburg,Germany,Germany,Europe,1957-02-08
+954,178,Walther Nernst,male,1864-06-25,Briesen,Prussia,Poland,Europe,1941-11-18
+955,783,Wangari Maathai,female,1940-04-01,Nyeri,Kenya,Kenya,Africa,2011-09-25
+956,683,Wassily Leontief,male,1906-08-05,St. Petersburg,Russia,Russia,Europe,1999-02-05
+957,206,Wendell M. Stanley,male,1904-08-16,"Ridgeville, IN",USA,USA,North America,1971-06-15
+958,414,Werner Arber,male,1929-06-03,Gränichen,Switzerland,Switzerland,Europe,
+959,361,Werner Forssmann,male,1904-08-29,Berlin,Germany,Germany,Europe,1979-06-01
+960,38,Werner Heisenberg,male,1901-12-05,Würzburg,Germany,Germany,Europe,1976-02-01
+961,1,Wilhelm Conrad Röntgen,male,1845-03-27,Lennep,Prussia,Germany,Europe,1923-02-10
+962,168,Wilhelm Ostwald,male,1853-09-02,Riga,Russian Empire,Latvia,Europe,1932-04-04
+963,16,Wilhelm Wien,male,1864-01-13,Gaffken,Prussia,Russia,Europe,1928-08-30
+964,224,Willard F. Libby,male,1908-12-17,"Grand Valley, CO",USA,USA,North America,1980-09-08
+965,839,Willard S. Boyle,male,1924-08-19,"Amherst, NS",Canada,Canada,North America,2011-05-07
+966,315,Willem Einthoven,male,1860-05-21,Semarang,"Java, Dutch East Indies",Indonesia,Asia,1927-09-29
+967,123,William A. Fowler,male,1911-08-09,"Pittsburgh, PA",USA,USA,North America,1995-03-14
+968,65,William B. Shockley,male,1910-02-13,London,United Kingdom,United Kingdom,Europe,1989-08-12
+969,20,William Bragg,male,1862-07-02,Wigton,United Kingdom,United Kingdom,Europe,1942-03-12
+970,593,William Butler Yeats,male,1865-06-13,Dublin,Ireland,Ireland,Europe,1939-01-28
+971,916,William C. Campbell,male,1930-06-28,Ramelton,Ireland,Ireland,Europe,
+972,968,William D. Nordhaus,male,1941-05-31,"Albuquerque, NM",USA,USA,North America,
+973,154,William D. Phillips,male,1948-11-05,"Wilkes-Barre, PA",USA,USA,North America,
+974,911,William E. Moerner,male,1953-06-24,"Pleasanton, CA",USA,USA,North America,
+975,209,William F. Giauque,male,1895-05-12,Niagara Falls,Canada,Canada,North America,1982-03-28
+976,706,William F. Sharpe,male,1934-06-16,"Boston, MA",USA,USA,North America,
+977,620,William Faulkner,male,1897-09-25,"New Albany, MS",USA,USA,North America,1962-07-06
+978,970,William G. Kaelin Jr,male,1957-11-23,"New York, NY",USA,USA,North America,
+979,660,William Golding,male,1911-09-19,Newquay,United Kingdom,United Kingdom,Europe,1993-06-19
+980,243,William H. Stein,male,1911-06-25,"New York, NY",USA,USA,North America,1980-02-02
+981,741,William Knowles,male,1917-06-01,"Taunton, MA",USA,USA,North America,2012-06-13
+982,249,William Lipscomb,male,1919-12-09,"Cleveland, OH",USA,USA,North America,2011-04-14
+983,328,William P. Murphy,male,1892-02-06,"Stoughton, WI",USA,USA,North America,1987-10-09
+984,716,William Vickrey,male,1914-06-21,"Victoria, BC",Canada,Canada,North America,1996-10-11
+985,63,Willis E. Lamb,male,1913-07-12,"Los Angeles, CA",USA,USA,North America,2008-05-15
+986,529,Willy Brandt,male,1913-12-18,Lübeck,Germany,Germany,Europe,1992-10-08
+987,624,Winston Churchill,male,1874-11-30,Woodstock,United Kingdom,United Kingdom,Europe,1965-01-24
+988,673,Wisława Szymborska,female,1923-07-02,Bnin,Poland,Poland,Europe,2012-02-01
+989,594,Władysław Reymont,male,1867-05-07,Kobiele Wielkie,Russian Empire,Poland,Europe,1925-12-05
+990,663,Wole Soyinka,male,1934-07-13,Abeokuta,Nigeria,Nigeria,Africa,
+991,739,Wolfgang Ketterle,male,1957-10-21,Heidelberg,West Germany,Germany,Europe,
+992,137,Wolfgang Paul,male,1913-08-10,Lorenzkirch,Germany,Germany,Europe,1993-12-07
+993,50,Wolfgang Pauli,male,1900-04-25,Vienna,Austria,Austria,Europe,1958-12-15
+994,483,Woodrow Wilson,male,1856-12-28,"Staunton, VA",USA,USA,North America,1924-02-03
+995,994,,,,,,,,
+996,557,Yasser Arafat,male,1929-08-24,Cairo,Egypt,Egypt,Africa,2004-11-11
+997,642,Yasunari Kawabata,male,1899-06-11,Osaka,Japan,Japan,Asia,1972-04-16
+998,559,Yitzhak Rabin,male,1922-03-01,Jerusalem,British Mandate of Palestine,Israel,Asia,1995-11-04
+999,826,Yoichiro Nambu,male,1921-01-18,Tokyo,Japan,Japan,Asia,2015-07-05
+1000,927,Yoshinori Ohsumi,male,1945-02-09,Fukuoka,Japan,Japan,Asia,
+1001,265,Yuan T. Lee,male,1936-11-19,Hsinchu,Taiwan,Taiwan,Asia,
+1002,794,Yves Chauvin,male,1930-10-10,Menin,Belgium,Belgium,Europe,2015-01-27
+1003,726,Zhores Alferov,male,1930-03-15,"Vitebsk, Belorussia",USSR,Belarus,Europe,2019-03-01
