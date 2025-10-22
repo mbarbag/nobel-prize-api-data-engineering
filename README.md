@@ -7,20 +7,20 @@
 
 > **Data engineering project demonstrating API consumption, data normalization, and relationship modeling using the Nobel Prize API.**
 
-## 🎯 Project Overview
+## Project Overview
 
 This repository demonstrates **data engineering skills** through data extraction and transformation implementation for Nobel Prize data. The project transforms nested JSON data from the public Nobel Prize API into clean, analysis-ready pandas DataFrames using normalization and modeling techniques.
 
-### 🏆 Key Technical Skills
+### Key Technical Skills
 
-- **🔌 API Data Extraction** - Data ingestion with error handling
-- **📊 Data Normalization** - JSONPath-style navigation for nested structures  
-- **🏗️ Data Modeling** - Many-to-many relationship handling between prizes and laureates
-- **⚡ Data Transformation** - Type-safe operations with null handling
-- **🔄 Extract & Transform Pipeline** - Complete data extraction and transformation
+- ** API Data Extraction** - Data ingestion with error handling
+- ** Data Normalization** - JSONPath-style navigation for nested structures  
+- ** Data Modeling** - Many-to-many relationship handling between prizes and laureates
+- ** Data Transformation** - Type-safe operations with null handling
+- ** Extract & Transform Pipeline** - Complete data extraction and transformation
 
 ---
-## 📡 Data Source
+## Data Source
 
 This project utilizes the **official Nobel Prize API v2.1** provided by [NobelPrize.org](https://www.nobelprize.org/about/developer-zone-2/).
 
@@ -54,7 +54,7 @@ This project utilizes the **official Nobel Prize API v2.1** provided by [NobelPr
 
 ---
 
-## 🏗️ Architecture & Implementation
+## Architecture & Implementation
 
 ### Core Components
 
@@ -83,7 +83,7 @@ def normalize_to_dataframe(json_data: dict) -> pd.DataFrame
 - **Denormalization strategy**: Optimized for analytical queries
 
 ---
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - [ ] **Data Persistence**: Save processed data to databases or files
 - [ ] **Incremental Updates**: Delta processing for new laureates
@@ -91,21 +91,10 @@ def normalize_to_dataframe(json_data: dict) -> pd.DataFrame
 - [ ] **Performance Optimization**: Parallel processing for datasets
 - [ ] **Data Visualization**: Interactive dashboards and insights
 - [ ] **Scheduling**: Automated data refresh workflows
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🔗 Links
+## Links
 
 - **API Documentation**: [Nobel Prize API v2.1](https://app.swaggerhub.com/apis/NobelMedia/NobelMasterData/2.1)
 - **Data Source**: [NobelPrize.org Developer Zone](https://www.nobelprize.org/about/developer-zone-2/)
@@ -117,10 +106,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 `#DataEngineering` `#API` `#DataNormalization` `#DataModeling` `#Python` `#Pandas` `#NobelPrize` `#DataScience` `#ExtractTransform`
 
----
 
-<div align="center">
-
-**⭐ If this project helped you, please give it a star! ⭐**
-
-</div>
